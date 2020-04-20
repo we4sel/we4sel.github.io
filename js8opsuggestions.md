@@ -66,9 +66,9 @@ These are subject to change as better information comes along. Like much of Ham 
 	- Examples @MS (for state) @skywarn, @net, @arfcom 
     
 
-Well, that’s far too much and not nearly enough. maybe a little easier than reading all the documentation, but that’s also an **VERY GOOD IDEA**. In any case is enough rambling from me. Will be glad to try and answer any questions I can.
+Well, that’s far too much and not nearly enough. Maybe a little easier than reading all the documentation, but that’s also an **[VERY GOOD IDEA](http://files.js8call.com/latest.html)**. In any case is enough rambling from me. Will be glad to try and answer any questions I can.
 
 > Written with  [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDg3MjY5MF19
+eyJoaXN0b3J5IjpbMTUwMzY2NzU5MywxODEwODcyNjkwXX0=
 -->
