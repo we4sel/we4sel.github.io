@@ -1,20 +1,29 @@
+
+
 ## Welcome to WE4SEL's corner
 
-### If we could read the secret history of our enemies, we should find in each man's life sorrow and suffering enough to disarm all hostility.  ― Henry Wadsworth Longfellow
 
-So here you have it.  Amateur Radio Station for Byron, WE4SEL (formerly KG5JVF)
+
+### "If we could read the secret history of our enemies, we should find in each man's life sorrow and suffering enough to disarm all hostility."  ― Henry Wadsworth Longfellow
+
+
+So here you have it. Byron, WE4SEL (formerly KG5JVF), radio, projects, problems, etc. 
 
 The station specs: 
 - Raspberry Pi 3b+ running Raspbian
 - IC-7300 100w barefoot max
 - MFJ-939 Autotuner
-- Homebrew 80-10 Off Center Fed Dipole, poorly built but accidentally works pretty well
-- 30 foot tall mast from scrounged and salvaged materials 
+- Homebrew 80-10 Off Center Fed Dipole, poorly built but accidentally works pretty well anyway.
+- 30 foot tall mast from scrounged and salvaged materials. 
 
 ### ON THE AIR
-If you're looking for me on the air, your best bet is via [JS8](http://js8call.com/) on 7.078mHz. Leave a message and epeat until you receive an ack from my station please. (http://js8call.com/) 
+If you're looking for me on the air, your best bet is via [JS8](http://js8call.com/) on 7.078mHz.  My station stays on the air as near 24/7/365 as the weather and lightning allow. Please leave a message and repeat until you receive an ack from my station please.   *Sometimes, for the various reasons that are ham radio, messages may not get thru the first time, or first several times.*
+
+* 
+
 [![JS8](https://i.postimg.cc/sxdKgfqk/web-header-2-1024x165.png)](http://js8call.com/) 
-[JS8call on Github](https://github.com/jsherer/ft8call)
+#### [JS8Call Main page](http://js8call.com/) 
+#### [JS8call on Github](https://github.com/jsherer/ft8call)
 
 I do occasionally work CW, with computer assistance for very bad ears. Almost any other digital mode is avilable if it can be run on a rpi and can be set up by the malfunctioning nut on the station keyboard. 
 
@@ -79,6 +88,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzI2NzkzMV19
+eyJoaXN0b3J5IjpbLTExODg1OTU1ODddfQ==
 -->
