@@ -68,8 +68,7 @@ These are subject to change as better information comes along. Like much of Ham 
 
 Well, that’s far too much and not nearly enough. Maybe a little easier than reading all the documentation, but that’s also an **[VERY GOOD IDEA](http://files.js8call.com/latest.html)**. In any case is enough rambling from me. Will be glad to try and answer any questions I can.
 
-> Written with  [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjcxNDA4LDE1MDM2Njc1OTMsMTgxMD
-g3MjY5MF19
+eyJoaXN0b3J5IjpbLTE4MDMyOTA4NDIsMTMwMjcxNDA4LDE1MD
+M2Njc1OTMsMTgxMDg3MjY5MF19
 -->
