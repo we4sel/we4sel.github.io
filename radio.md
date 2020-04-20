@@ -12,10 +12,8 @@
 <li>30 foot tall mast from scrounged and salvaged materials.<br>
 <img src="https://i.postimg.cc/hv6yxbX5/309520-1.jpg" alt="enter image description here"></li>
 </ul>
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzg0MTQ0NDVdfQ==
+eyJoaXN0b3J5IjpbMjEzNTY1NzE1NSwtMTc3ODQxNDQ0NV19
 -->
