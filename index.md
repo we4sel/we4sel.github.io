@@ -12,7 +12,6 @@ So here you have it. If you’re looking for me on the air, your best bet is via
 -   [Clubs](https://github.com/we4sel/we4sel.github.io/blob/master/clubs.md)
 -   [Projects](https://github.com/we4sel/we4sel.github.io/blob/master/projects.md)
 
-> Written with  [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3MTg1Mjg0LC04MjYyMDg0MzRdfQ==
+eyJoaXN0b3J5IjpbMjAzMzkxNTQsLTgyNjIwODQzNF19
 -->
