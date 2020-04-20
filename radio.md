@@ -8,7 +8,9 @@
 -   Homebrew 80-10 Off Center Fed Dipole
 	- poorly built but accidentally works pretty well anyway.
 -   30 foot tall mast from scrounged and salvaged materials.  
+- Solar power(8*165w panels), with salvaged lead-acid storage batteries
     ![enter image description here](https://i.postimg.cc/hv6yxbX5/309520-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5Mjc5MDk1LC0xNzc4NDE0NDQ1XX0=
+eyJoaXN0b3J5IjpbLTIwNzAwMTgyMDYsLTE3Nzg0MTQ0NDVdfQ
+==
 -->
