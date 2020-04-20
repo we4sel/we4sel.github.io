@@ -32,21 +32,21 @@
 </li>
 <li>
 <p>Can lead to frustration when it’s the only traffic and someone wants to ragchew!<br>
--  	 <strong>Examples</strong>: HB from my station at 15w and the 5 automatic responses.</p>
+ -  	 <strong>Examples</strong>: HB from my station at 15w and the 5 automatic responses.</p>
 <blockquote>
 <pre><code>  -	TX 14:41:00 - (1100) - WE4SEL: HB AUTO RELAY SPOT EM54 ⣿
-  - RX 4:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
-  -  RX14:41:30 - (654) - KV4ATV: WE4SEL ACK +00 ⣿
-  -  RX14:41:30 - (847) - KB8HTU: WE4SEL ACK +03 ⣿
-  -  RX14:41:30 - (893) - W5DXP: WE4SEL ACK +10 ⣿
-  -  RX14:41:57 - (1006) - W7RLF: WE4SEL ACK -06 ⣿
+ - RX 4:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
+ -  RX14:41:30 - (654) - KV4ATV: WE4SEL ACK +00 ⣿
+ -  RX14:41:30 - (847) - KB8HTU: WE4SEL ACK +03 ⣿
+ -  RX14:41:30 - (893) - W5DXP: WE4SEL ACK +10 ⣿
+ -  RX14:41:57 - (1006) - W7RLF: WE4SEL ACK -06 ⣿
 </code></pre>
 </blockquote>
 </li>
 </ul>
 </li>
 <li>
-<p>Auto's: [Probably not the best term. If you happen to have used FSQ, i think this is an adaptation and advancement of ideas from that mode] There are a good many queries that can be sent to solicit response from a remote station without the direct intervention of the remote operator being needed. for instance, asking a station for their station info (if they set it in config), asking a station what other stations they copy, last time they heard a particular station, asking for a repeat of their last transmission (very handy), and so on.</p>
+**Auto's**: [Probably not the best term. If you happen to have used FSQ, i think this is an adaptation and advancement of ideas from that mode] There are a good many queries that can be sent to solicit response from a remote station without the direct intervention of the remote operator being needed. for instance, asking a station for their station info (if they set it in config), asking a station what other stations they copy, last time they heard a particular station, asking for a repeat of their last transmission (very handy), and so on.</p>
 </li>
 <li>
 <p>Relay. transmissions can be relayed through intermediate stations in the case of no direct path between a pair of stations in qso, which is accomplished actively between the stations in qso but is part of the mesh functions for the intermediate stations. it’s a little tedious to use in practice, but it’s worth tinkering with and occasionally gets used. will be better when longer prop conditions return.</p>
@@ -73,5 +73,5 @@
 </blockquote>
 ).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyNzY2OTU0XX0=
+eyJoaXN0b3J5IjpbODY0ODg3MzAyXX0=
 -->
