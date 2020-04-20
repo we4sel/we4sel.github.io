@@ -5,13 +5,12 @@
 
 <h2 id="js8-operating-suggestions">JS8 Operating Suggestions</h2>
 <h3 id="tldr--js8-is-a-little-weird-at-first.-there-are-a-lot-of-different-things-going-on-at-the-same-time-using-the-same-space-and-its-confusing-even-if-not-new."><strong>TL;DR:</strong>  JS8 is a little weird at first. There are a lot of different things going on at the same time using the same space and it’s confusing even if not new.</h3>
-<p>These are subject to change as better information comes along. Like much of Ham Radio, it can seem like drinking from a firehose at first.  All the following is my best attempt at understanding and condensing: very little is “official information”. Please pardon if it gets either too technical or too “crayon”. I’ve been trying to figure out how to write a simple  guide for folks, and this isn’t very simple but hopefully helpful at leas. Many of the things kinda blend into other categories, which gives lots of combinations and flexibility to the mode and program.</p>
+<p>These are subject to change as better information comes along. Like much of Ham Radio, it can seem like drinking from a firehose at first.  All the following is my best attempt at understanding and condensing: very little is “official information”. Please pardon if it gets either too technical or too “crayon. I’ve been trying to figure out how to write a simple  guide for folks, and this isn’t very simple but hopefully helpful at leas. Many of the things kinda blend into other categories, which gives lots of combinations and flexibility to the mode and program.</p>
 <ul>
 <li>
 <p><strong>Ragchew</strong>: (Primary purpose of mode) Active operators at their keyboards having conversations.</p>
 <ul>
-<li>Often rather long, slow, patient conversations, lasting from several minutes to several hours or even days if you count multi-session “pick up in the morning where we fell asleep”, “got distracted” or “had to attend to real life”, etc.</li>
-<li>Often there may be dropped frames that have to be repeated or guessed at, whole lost messages, major shifts in prop, the usual things that happen to radio.</li>
+<li>Often rather long, slow, patient conversations, lasting from several minutes to several hours or even days if you count multi-session “pick up in the morning where we fell asleep”, got distracted” or had to attend to real life”", etc.</li Often there may be dropped frames that have to be repeated or guessed at, whole lost messages, major shifts in prop, the usual things that happen to radio.</li>
 </ul>
 </li>
 <li>
@@ -23,8 +22,7 @@
 <li>
 <p>(<strong>HB</strong>, <strong>ACK</strong> &amp; <strong>SNR</strong>)</p>
 </li>
-<li>
-<p>Lets the rest of the “network” know who’s stations are available for relay/message</p>
+<li Lets the rest of the “network know who’s stations are available for relay/message</p>
 </li>
 <li>
 <p>Helps to see propagation in both directions (esp if combined with pskreporter).</p>
@@ -37,18 +35,18 @@
 -  	 <strong>Examples</strong>: HB from my station at 15w and the 5 automatic responses.</p>
 <blockquote>
 <pre><code>  -	TX 14:41:00 - (1100) - WE4SEL: HB AUTO RELAY SPOT EM54 ⣿
-  -  RX 14:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
-  -  RX 14:41:30 - (654) - KV4ATV: WE4SEL ACK +00 ⣿
-  -  RX 14:41:30 - (847) - KB8HTU: WE4SEL ACK +03 ⣿
-  -  RX 14:41:30 - (893) - W5DXP: WE4SEL ACK +10 ⣿
-  -  RX 14:41:57 - (1006) - W7RLF: WE4SEL ACK -06 ⣿
+  - RX 4:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
+  -  RX14:41:30 - (654) - KV4ATV: WE4SEL ACK +00 ⣿
+  -  RX14:41:30 - (847) - KB8HTU: WE4SEL ACK +03 ⣿
+  -  RX14:41:30 - (893) - W5DXP: WE4SEL ACK +10 ⣿
+  -  RX14:41:57 - (1006) - W7RLF: WE4SEL ACK -06 ⣿
 </code></pre>
 </blockquote>
 </li>
 </ul>
 </li>
 <li>
-<p>Auto’s: [Probably not the best term. If you happen to have used FSQ, i think this is an adaptation and advancement of ideas from that mode] There are a good many queries that can be sent to solicit response from a remote station without the direct intervention of the remote operator being needed. for instance, asking a station for their station info (if they set it in config), asking a station what other stations they copy, last time they heard a particular station, asking for a repeat of their last transmission (very handy), and so on.</p>
+<p>Auto's: [Probably not the best term. If you happen to have used FSQ, i think this is an adaptation and advancement of ideas from that mode] There are a good many queries that can be sent to solicit response from a remote station without the direct intervention of the remote operator being needed. for instance, asking a station for their station info (if they set it in config), asking a station what other stations they copy, last time they heard a particular station, asking for a repeat of their last transmission (very handy), and so on.</p>
 </li>
 <li>
 <p>Relay. transmissions can be relayed through intermediate stations in the case of no direct path between a pair of stations in qso, which is accomplished actively between the stations in qso but is part of the mesh functions for the intermediate stations. it’s a little tedious to use in practice, but it’s worth tinkering with and occasionally gets used. will be better when longer prop conditions return.</p>
@@ -73,4 +71,7 @@
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
-
+).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjMyNzY2OTU0XX0=
+-->
