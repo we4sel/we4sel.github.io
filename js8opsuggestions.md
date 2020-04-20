@@ -3,7 +3,7 @@
 
 ### **TL;DR:**  JS8 is a little weird at first. There are a lot of different things going on at the same time using the same space and it’s confusing even if not new.
 
-These are subject to change as better information comes along. Like much of Ham Radio, it can seem like drinking from a firehose at first. All the following is my best attempt at understanding and condensing: very little is “official information”. Please pardon if it gets either too technical or too “crayon. I’ve been trying to figure out how to write a simple guide for folks, and this isn’t very simple but hopefully helpful at leas. Many of the things kinda blend into other categories, which gives lots of combinations and flexibility to the mode and program.
+These are subject to change as better information comes along. Like much of Ham Radio, it can seem like drinking from a firehose at first. All the following is my best attempt at understanding and condensing: very little is “official information”. Please pardon if it gets either too technical or too “crayon. I’ve been trying to figure out how to write a simple guide for folks, and this isn’t very simple but hopefully helpful at leas. Many of the things blend into other categories, which gives lots of combinations and flexibility to the mode and program.
 
 **Ragchew**: (Primary purpose of mode) Active operators at their keyboards having conversations.
 
@@ -11,13 +11,13 @@ These are subject to change as better information comes along. Like much of Ham 
 
 **Auto**:  Applies to several overlapping functions
 
- - There are a good many queries that can be sent to solicit response from a remote station without the direct intervention of the remote operator being needed, such as: 
+ - **Queries**: There are a good many queries that can be sent to solicit response from a remote station without the direct intervention of the remote operator being needed, such as: 
 	 - station info (if they set it in config) 
 	 - last several stations heard
 	 - last time they heard a particular station
 	 - a repeat of their last transmission (very handy)
 
--   Relay. transmissions can be relayed through intermediate stations in the case of no direct path between a pair of stations in qso, which is accomplished actively between the stations in qso but is part of the mesh functions for the intermediate stations. it’s a little tedious to use in practice, but it’s worth tinkering with and occasionally gets used. will be better when longer prop conditions return.
+-   **Relay**: transmissions can be relayed through intermediate stations in the case of no direct path between a pair of stations in qso, which is accomplished actively between the stations in qso but is part of the mesh functions for the intermediate stations. it’s a little tedious to use in practice, but it’s worth tinkering with and occasionally gets used. will be better when longer prop conditions return.
 
 **Mesh**: When not active at the keys/in qso, many of operators leave their stations powered on, unattended, in AUTO/HB/ACK purely to participate in this part of the mode.
 
@@ -62,5 +62,5 @@ Well, that’s far too much and not nearly enough. maybe a little easier than re
 
 > Written with  [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzAyMzExOTJdfQ==
+eyJoaXN0b3J5IjpbLTY3OTY4OTAzXX0=
 -->
