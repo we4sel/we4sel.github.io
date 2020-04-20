@@ -7,7 +7,7 @@
 #### "If we could read the secret history of our enemies, we should find in each man's life sorrow and suffering enough to disarm all hostility."  ― Henry Wadsworth Longfellow
 
 
-So here you have it. Byron, WE4SEL (formerly KG5JVF), radio, projects, problems, etc. 
+So here you have it. Radio, projects, problems, etc. 
 
 The station specs: 
 - Raspberry Pi 3b+ running Raspbian
@@ -45,5 +45,5 @@ I occasionally work CW, with computer assistance for very bad ears. Almost any o
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyNTMxOTI1LDQ2MzI3MjgwXX0=
+eyJoaXN0b3J5IjpbLTcyMDEwMzkwMyw0NjMyNzI4MF19
 -->
