@@ -17,7 +17,11 @@ These are subject to change as better information comes along. Like much of Ham 
 	 - last time they heard a particular station
 	 - a repeat of their last transmission (very handy)
 
--   **Relay**: transmissions can be relayed through intermediate stations in the case of no direct path between a pair of stations in qso, which is accomplished actively between the stations in qso but is part of the mesh functions for the intermediate stations. it’s a little tedious to use in practice, but it’s worth tinkering with and occasionally gets used. will be better when longer prop conditions return.
+-   **Relay**: transmissions can be relayed through intermediate stations 
+	- In case of no direct path between a pair of stations in qso,
+	- between the stations in qso but is part of the auto/mesh functions for the intermediate stations. 
+	- It’s a little tedious to use in practice, but it’s worth tinkering with and learning to utilize. -
+	-  Will be better when longer prop conditions return.
 
 **Mesh**: When not active at the keys/in qso, many of operators leave their stations powered on, unattended, in AUTO/HB/ACK purely to participate in this part of the mode.
 
@@ -62,5 +66,5 @@ Well, that’s far too much and not nearly enough. maybe a little easier than re
 
 > Written with  [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTY4OTAzXX0=
+eyJoaXN0b3J5IjpbMTMzMzQ3MTE0MV19
 -->
