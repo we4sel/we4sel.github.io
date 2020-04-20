@@ -12,9 +12,10 @@ So here you have it. If you’re looking for me on the air, your best bet is via
 -   [Online Radio Clubs & Organizations](https://github.com/we4sel/we4sel.github.io/blob/master/clubs.md)
 -   [Projects](https://github.com/we4sel/we4sel.github.io/blob/master/projects.md)
 
-1503
+
 ##  "Talking to Aliens"
+v042020201503
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTY5MTMxOTAsLTMzNjgyODIwMCwxNT
-AwMTc4NjUzLDIwMzM5MTU0LC04MjYyMDg0MzRdfQ==
+eyJoaXN0b3J5IjpbLTc3NzI1MTg4MCwtMzM2ODI4MjAwLDE1MD
+AxNzg2NTMsMjAzMzkxNTQsLTgyNjIwODQzNF19
 -->
