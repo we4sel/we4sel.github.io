@@ -60,12 +60,15 @@ These are subject to change as better information comes along. Like much of Ham 
 		- in the traffic window. His station sent a HB, mine ACK’d, and since there’s a message in my outbox for him, told him it’s number for retrieval at his convenience.
     
 -   **Group/Net**: 
-	- There are groups/nets, such as @allcall which will highlight on every receiving station as if it were directed to their personal callsign, as will other groups added with a @ in front, and can be used for nets, etc, with the typical ham creativity. i use @MS (for state) @skywarn and @net but there are lots of others. have seen @arfcom getting some traffic lately if you’re into that.
+	- There are groups/nets, such as @allcall @net etc 
+	- Highlights on every receiving station as if it were directed to their personal callsign
+	- Can be used for nets, etc, with the typical ham creativity. 
+	- Examples @MS (for state) @skywarn, @net, @arfcom 
     
 
-Well, that’s far too much and not nearly enough. maybe a little easier than reading all the documentation, but that’s also an option. In any case is enough rambling from me. Will be glad to try and answer any questions I can.
+Well, that’s far too much and not nearly enough. maybe a little easier than reading all the documentation, but that’s also an VERY GOOD option. In any case is enough rambling from me. Will be glad to try and answer any questions I can.
 
 > Written with  [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0NjE4MzUwXX0=
+eyJoaXN0b3J5IjpbMjE0NDM4NzEyNF19
 -->
