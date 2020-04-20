@@ -29,7 +29,7 @@ These are subject to change as better information comes along. Like much of Ham 
 
 - **Mesh**: When not active at the keys/in qso, many of operators leave their stations powered on, unattended, in AUTO/HB/ACK purely to participate in this part of the mode.
 
-	 -   Automated “ping - pong” system of  **H**eart**B**eat &  **ACK**nowledgement (**HB**,  **ACK**  &  **SNR**)
+	 -   Automated “ping - pong” system of  **H**eart**B**eat &  **ACK**nowledgement (**HB**,  **ACK**  &  **SNR**	
 	 - Lets the rest of the “network know who’s stations are available for relay/message
 	-   Helps to see propagation in both directions, especially when combined with [PSKReporter](hhttps://bit.ly/2KmSOM5) 
 	   -   Gives a backbone for message notification. (this was condition of my station when you messaged me). 
@@ -51,10 +51,8 @@ These are subject to change as better information comes along. Like much of Ham 
     
 -   **Message**: 
 -   Direct message if received intact, the receiving station will auto-reply an acknowledgement and the message will pop up on the receiver’s screen (if enabled) and stores in a local mailbox. 
+- Messages can be stored on the senders machine, to be transmitted when the target station is on the air and requests the message to be transmitted. it includes the same accuracy check that the message was delivered intact and replies with an acknowledgement to the sending station.
 - Quite handy.
-    
--   Messages can be stored on the senders machine, to be transmitted when the target station is on the air and requests the message to be transmitted. it includes the same accuracy check that the message was delivered intact and replies with an acknowledgement to the sending station.
-    
 -   EG “**15:12:45 - (1100) - WE4SEL: KV4ATV ACK +12 MSG ID 6 ⣿**” in the traffic window. His station sent a HB, mine ACK’d, and since there’s a message in my outbox for him, told him it’s number for retrieval at his convenience.
     
 -   Group/Net: there are groups/nets, such as @allcall which will highlight on every receiving station as if it were directed to their personal callsign, as will other groups added with a @ in front, and can be used for nets, etc, with the typical ham creativity. i use @MS (for state) @skywarn and @net but there are lots of others. have seen @arfcom getting some traffic lately if you’re into that.
@@ -64,5 +62,5 @@ Well, that’s far too much and not nearly enough. maybe a little easier than re
 
 > Written with  [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjk3NTAyMl19
+eyJoaXN0b3J5IjpbLTE3MTc0ODU5MzddfQ==
 -->
