@@ -7,19 +7,15 @@ These are subject to change as better information comes along. Like much of Ham 
 
 **Ragchew**: (Primary purpose of mode) Active operators at their keyboards having conversations.
 
--   Often rather long, slow, patient conversations, lasting from several minutes to several hours or even days if you count multi-session “pick up in the morning where we fell asleep”, got distracted” or had to attend to real life”", etc.
+ -   Often rather long, slow, patient conversations, lasting from several minutes to several hours or even days if you count multi-session “pick up in the morning where we fell asleep”, got distracted” or had to attend to real life”", etc.
 
 **Mesh**: When not active at the keys/in qso, many of operators leave their stations powered on, unattended, in auto HB/ACK, purely to participate in this part of the mode.
 
--   Automated “ping - pong” system of  **H**eart**B**eat &  **ACK**nowledgement
-    
--   (**HB**,  **ACK**  &  **SNR**)
+ -   Automated “ping - pong” system of  **H**eart**B**eat &  **ACK**nowledgement (**HB**,  **ACK**  &  **SNR**)
 
--   List item
+ - Lets the rest of the “network know who’s stations are available for relay/message
 
-Lets the rest of the “network know who’s stations are available for relay/message
-
--   Helps to see propagation in both directions (esp if combined with pskreporter).
+-   Helps to see propagation in both directions (esp if combined with [PSKReporter](https://pskreporter.info/pskmap.html?preset&callsign=ZZZZZ&what=all&mode=JS8&timerange=900&hideunrec=1&hidelight=1&showtx=1&showgrid=1&suppressbadqrg=1&showlines=1)).
     
 -   Gives a backbone for message notification. (this was condition of my station when you messaged me). This comprises probably >75% of JS8 traffic, most of which will on the low offsets of 500-1000hz.
     
@@ -57,5 +53,5 @@ Well, that’s far too much and not nearly enough. maybe a little easier than re
 
 > Written with  [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODk0ODE3M119
+eyJoaXN0b3J5IjpbODkzNzUyNTg4XX0=
 -->
