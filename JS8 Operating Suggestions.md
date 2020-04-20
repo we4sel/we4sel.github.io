@@ -1,17 +1,15 @@
 ## JS8 Operating Suggestions
 ### **TL;DR:**  JS8 is a little weird at first. There are a lot of different things going on at the same time using the same space and it's confusing even if not new. 
 These are subject to change as better information comes along. Like much of Ham Radio, it can seem like drinking from a firehose at first.  All the following is my best attempt at understanding and condensing: very little is "official information". Please pardon if it gets either too technical or too "crayon". I've been trying to figure out how to write a simple  guide for folks, and this isn't very simple but hopefully helpful at leas. Many of the things kinda blend into other categories, which gives lots of combinations and flexibility to the mode and program. 
--   **Ragchew** 
-	- (Primary purpose of mode) 
-	- Active operators at their keyboards having conversations. 
+-   **Ragchew**: (Primary purpose of mode) Active operators at their keyboards having conversations. 
 	- Often rather long, slow, patient conversations, lasting from several minutes to several hours or even days if you count multi-session "pick up in the morning where we fell asleep", "got distracted" or "had to attend to real life", etc. 
 	- Often there may be dropped frames that have to be repeated or guessed at, whole lost messages, major shifts in prop, the usual things that happen to radio.
 
--   **Mesh** 
-	- a "ping - pong" system of Heartbeat (HB) and acknowledgement (ACK and snr) 
+-   **Mesh**: When not active at the keys/in qso, many of operators leave their stations powered on, unattended, in auto HB/ACK, purely to participate in this part of the mode. 
+	- an automated "ping - pong" system of Heart**B**eat (HB) and acknowledgement (ACK & SNR)
 	- Lets the rest of the "network" know who's stations are available for relay/message 
 	- Helps to see propagation in both directions (esp if combined with pskreporter). 
-	- Gives a backbone for message notification. When not active at the keys/in qso, many of operators leave their stations powered on, unattended, in auto HB/ACK, purely to participate in this part of the mode. (this was condition of my station when you messaged me). This comprises probably >75% of js8 traffic, most of which will be from 500-1000hz. Can lead to frustration when it's the only traffic and someone wants to ragchew! (like last night)
+	- Gives a backbone for message notification. (this was condition of my station when you messaged me). This comprises probably >75% of js8 traffic, most of which will be from 500-1000hz. Can lead to frustration when it's the only traffic and someone wants to ragchew! (like last night)
 
 -   Examples: my HB at 15w and the 5 automatic responses.
 
@@ -40,6 +38,6 @@ Well, that's far too much and not nearly enough. maybe a little easier than read
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0MTI2NDIzLC0yODc2ODg5ODEsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIzMjc5NjQ3OCwtMjg3Njg4OTgxLDczMD
+k5ODExNl19
 -->
