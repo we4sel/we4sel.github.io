@@ -9,7 +9,10 @@
 
 So here you have it. 
 
- - On The Air  Radio  Projects
+ - On The Air  
+ - [Radio] 
+ - [Clubs]
+ - Projects
 
 The station specs: 
 - Raspberry Pi 3b+ running Raspbian
@@ -29,9 +32,6 @@ I occasionally work CW, with computer assistance for very bad ears. Almost any o
 
 ![we4sel](https://i.postimg.cc/hv6yxbX5/309520-1.jpg)
 
-### Clubs and such
-- [National Tribal Amateur Radio Association (Club Call W7NTV)](https://www.facebook.com/NatlTribalHam/)
-- 100W&aW Member #935 ![100 Watts & a Wire](https://i.postimg.cc/Gpb6QKpB/Asset-22-8x-8.png)
 
 
 
@@ -44,8 +44,7 @@ I occasionally work CW, with computer assistance for very bad ears. Almost any o
 
 
 
-
-
+> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTAyMDkxOCw0NjMyNzI4MF19
+eyJoaXN0b3J5IjpbLTEwOTk5NzcwODEsNDYzMjcyODBdfQ==
 -->
