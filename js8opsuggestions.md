@@ -8,6 +8,7 @@ These are subject to change as better information comes along. Like much of Ham 
 **Ragchew**: (Primary purpose of mode) Active operators at their keyboards having conversations.
 
  -   Often rather long, slow, patient conversations, lasting from several minutes to several hours or even days if you count multi-session “pick up in the morning where we fell asleep”, got distracted” or had to attend to real life”", etc.
+ - Often Logged, at least first qso between stations
 
 **Auto**:  Applies to several overlapping functions
 
@@ -16,6 +17,7 @@ These are subject to change as better information comes along. Like much of Ham 
 	 - last several stations heard
 	 - last time they heard a particular station
 	 - a repeat of their last transmission (very handy)
+	 - Rarely Logged
 
 -   **Relay**: transmissions can be relayed through intermediate stations 
 	- In case of no direct path between a pair of stations in qso,
@@ -23,6 +25,7 @@ These are subject to change as better information comes along. Like much of Ham 
 	- Auto/mesh functions for the intermediate stations. 
 	- It’s a little tedious to use in practice, but it’s worth tinkering with and learning to utilize. -
 	-  Will be better when longer prop conditions return.
+	- Rarely Logged
 
 - **Mesh**: When not active at the keys/in qso, many of operators leave their stations powered on, unattended, in AUTO/HB/ACK purely to participate in this part of the mode.
 
@@ -30,9 +33,11 @@ These are subject to change as better information comes along. Like much of Ham 
 	 - Lets the rest of the “network know who’s stations are available for relay/message
 	-   Helps to see propagation in both directions, especially when combined with [PSKReporter](hhttps://bit.ly/2KmSOM5) 
 	   -   Gives a backbone for message notification. (this was condition of my station when you messaged me). 
-	   - This comprises probably >75% of JS8 traffic, most of which will on the low offsets of 500-1000hz.
-    
--   Can lead to frustration when it’s the only traffic and someone wants to ragchew!  
+	   - This comprises probably >75% of JS8 traffic
+	   - Mostly on the low offsets of 500-1000hz.
+	   - Can lead to frustration when it’s the only traffic and someone wants to ragchew!  
+	   - Rarely logged
+       
     -  **Examples**: HB from my station at 15w and the 5 automatic responses.
     
     > ```
@@ -65,5 +70,5 @@ Well, that’s far too much and not nearly enough. maybe a little easier than re
 
 > Written with  [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTg3NjczNF19
+eyJoaXN0b3J5IjpbLTExNzYxNjAxNDddfQ==
 -->
