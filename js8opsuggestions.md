@@ -39,8 +39,8 @@ These are subject to change as better information comes along. Like much of Ham 
    - Rarely logged
 
        
-		    **Example**: HB/ACKs from my station at 15w 
-		                 and the 5 automatic responses.
+		    E.G. HB/ACKs from my station at 15w 
+		         and the 5 automatic responses.
 		    TX 14:41:00 - (1100) - WE4SEL: HB AUTO RELAY SPOT EM54 ⣿
 		    RX 4:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
 		    RX 14:41:30 - (654) - KV4ATV: WE4SEL ACK +00 ⣿ 
@@ -56,15 +56,16 @@ These are subject to change as better information comes along. Like much of Ham 
 	- Messages can be stored on the senders machine, to be transmitted when the target station is on the air and requests the message to be transmitted.
 	- Includes the same accuracy check that the message was delivered intact and replies with an acknowledgement to the sending station.
 	- Quite handy.
-	-   	EG **15:12:45 - (1100) - WE4SEL: KV4ATV ACK +12 MSG ID 6 ⣿
+	-   	E.G. 15:12:45 - (1100) - WE4SEL: KV4ATV ACK +12 MSG ID 6 ⣿
 		- in the traffic window. His station sent a HB, mine ACK’d, and since there’s a message in my outbox for him, told him it’s number for retrieval at his convenience.
     
--   Group/Net: there are groups/nets, such as @allcall which will highlight on every receiving station as if it were directed to their personal callsign, as will other groups added with a @ in front, and can be used for nets, etc, with the typical ham creativity. i use @MS (for state) @skywarn and @net but there are lots of others. have seen @arfcom getting some traffic lately if you’re into that.
+-   **Group/Net**: 
+	- There are groups/nets, such as @allcall which will highlight on every receiving station as if it were directed to their personal callsign, as will other groups added with a @ in front, and can be used for nets, etc, with the typical ham creativity. i use @MS (for state) @skywarn and @net but there are lots of others. have seen @arfcom getting some traffic lately if you’re into that.
     
 
 Well, that’s far too much and not nearly enough. maybe a little easier than reading all the documentation, but that’s also an option. In any case is enough rambling from me. Will be glad to try and answer any questions I can.
 
 > Written with  [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTMyNzI2M119
+eyJoaXN0b3J5IjpbNzM0NjE4MzUwXX0=
 -->
