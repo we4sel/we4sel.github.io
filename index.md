@@ -4,7 +4,7 @@
 
 
 
-### "If we could read the secret history of our enemies, we should find in each man's life sorrow and suffering enough to disarm all hostility."  ― Henry Wadsworth Longfellow
+#### "If we could read the secret history of our enemies, we should find in each man's life sorrow and suffering enough to disarm all hostility."  ― Henry Wadsworth Longfellow
 
 
 So here you have it. Byron, WE4SEL (formerly KG5JVF), radio, projects, problems, etc. 
@@ -45,5 +45,5 @@ I occasionally work CW, with computer assistance for very bad ears. Almost any o
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzMjcyODBdfQ==
+eyJoaXN0b3J5IjpbMzUyNTMxOTI1LDQ2MzI3MjgwXX0=
 -->
