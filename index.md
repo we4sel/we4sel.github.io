@@ -7,7 +7,9 @@
 #### "If we could read the secret history of our enemies, we should find in each man's life sorrow and suffering enough to disarm all hostility."  ― Henry Wadsworth Longfellow
 
 
-So here you have it. Radio, projects, problems, etc. 
+So here you have it. 
+
+ - On The Air  Radio  Projects
 
 The station specs: 
 - Raspberry Pi 3b+ running Raspbian
@@ -45,5 +47,5 @@ I occasionally work CW, with computer assistance for very bad ears. Almost any o
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDEwMzkwMyw0NjMyNzI4MF19
+eyJoaXN0b3J5IjpbMjE0NTAyMDkxOCw0NjMyNzI4MF19
 -->
