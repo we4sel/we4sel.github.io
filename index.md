@@ -8,14 +8,15 @@
 So here you have it. If you’re looking for me on the air, your best bet is via  [JS8](http://js8call.com/)  on 7.078mHz.
 
 -   [On The Air](ontheair.md)
--   [Radio](https://github.com/we4sel/we4sel.github.io/blob/master/radio.md)
--   [Online Radio Clubs & Organizations](https://github.com/we4sel/we4sel.github.io/blob/master/clubs.md)
--   [Projects](https://github.com/we4sel/we4sel.github.io/blob/master/projects.md)
+-   [Radio](radio.md)
+-   [Online Radio Clubs & Organizations](hclubs.md)
+-   [Projects](projects.md)
 
 
 ##  "Talking to Aliens"
-v042020201503
+v042020201507
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzI1MTg4MCwtMzM2ODI4MjAwLDE1MD
-AxNzg2NTMsMjAzMzkxNTQsLTgyNjIwODQzNF19
+eyJoaXN0b3J5IjpbNjg5NjQwNTEyLC03NzcyNTE4ODAsLTMzNj
+gyODIwMCwxNTAwMTc4NjUzLDIwMzM5MTU0LC04MjYyMDg0MzRd
+fQ==
 -->
