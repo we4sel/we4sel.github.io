@@ -19,24 +19,24 @@ These are subject to change as better information comes along. Like much of Ham 
 	 - a repeat of their last transmission (very handy)
 	 - Rarely Logged
 
--   **Relay**: transmissions can be relayed through intermediate stations 
+ -   **Relay**: transmissions can be relayed through intermediate stations 
 	- In case of no direct path between a pair of stations in qso,
 	- Manual between the stations in qso 
 	- Auto/mesh functions for the intermediate stations. 
-	- It’s a little tedious to use in practice, but it’s worth tinkering with and learning to utilize. -
+	- It’s a little tedious to use in practice, but it’s worth tinkering with and learning to utilize.
 	-  Will be better when longer prop conditions return.
 	- Rarely Logged
 
-- **Mesh**: When not active at the keys/in qso, many of operators leave their stations powered on, unattended, in AUTO/HB/ACK purely to participate in this part of the mode.
+ - **Mesh**: When not active at the keys/in qso, many of operators leave their stations powered on, unattended, in AUTO/HB/ACK purely to participate in this part of the mode.
 
-	 -   Automated “ping - pong” system of  **H**eart**B**eat &  **ACK**nowledgement (**HB**,  **ACK**  &  **SNR**	
-	 - Lets the rest of the “network know who’s stations are available for relay/message
-	-   Helps to see propagation in both directions, especially when combined with [PSKReporter](hhttps://bit.ly/2KmSOM5) 
-	   -   Gives a backbone for message notification. (this was condition of my station when you messaged me). 
-	   - This comprises probably >75% of JS8 traffic
-	   - Mostly on the low offsets of 500-1000hz.
-	   - Can lead to frustration when it’s the only traffic and someone wants to ragchew!  
-	   - Rarely logged
+	 -   Automated “ping - pong” system of  **H**eart**B**eat &  **ACK**nowledgement (**HB**,  **ACK**  &  **SNR**Lets the rest of the “network know who’s stations are available for
+   relay/message
+   Helps to see propagation in both directions, especially when combined with [PSKReporter](hhttps://bit.ly/2KmSOM5) 
+   Gives a backbone for message notification. (this was condition of my station when you messaged me). 
+   Comprises probably >75% of JS8 trafficMostly on the low offsets of 500-1000hz.
+      	   - Can lead to frustration when it’s the only traffic and someone wants to ragchew!  
+      	   - Rarely logged
+
        
 	    -  **Example**: HB/ACKs from my station at 15w and the 5 automatic responses.
 	        >  - TX 14:41:00 - (1100) - WE4SEL: HB AUTO RELAY SPOT EM54 ⣿
@@ -62,5 +62,5 @@ Well, that’s far too much and not nearly enough. maybe a little easier than re
 
 > Written with  [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTc0ODU5MzddfQ==
+eyJoaXN0b3J5IjpbMzk3MDg5NDY1XX0=
 -->
