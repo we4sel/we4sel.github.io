@@ -15,7 +15,7 @@ These are subject to change as better information comes along. Like much of Ham 
 
  - Lets the rest of the “network know who’s stations are available for relay/message
 
--   Helps to see propagation in both directions (esp if combined with [PSKReporter](https://pskreporter.info/pskmap.html?preset&callsign=ZZZZZ&what=all&mode=JS8&timerange=900&hideunrec=1&hidelight=1&showtx=1&showgrid=1&suppressbadqrg=1&showlines=1)).
+-   Helps to see propagation in both directions, especially when combined with [PSKReporter](https://pskreporter.info/pskmap.html?preset&callsign=ZZZZZ&what=all&mode=JS8&timerange=900&hideunrec=1&hidelight=1&showtx=1&showgrid=1&suppressbadqrg=1&showlines=1) 
     
 -   Gives a backbone for message notification. (this was condition of my station when you messaged me). This comprises probably >75% of JS8 traffic, most of which will on the low offsets of 500-1000hz.
     
@@ -53,5 +53,5 @@ Well, that’s far too much and not nearly enough. maybe a little easier than re
 
 > Written with  [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzNzUyNTg4XX0=
+eyJoaXN0b3J5IjpbNDUyMjkyNjIzXX0=
 -->
