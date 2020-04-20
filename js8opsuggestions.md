@@ -40,19 +40,18 @@ These are subject to change as better information comes along. Like much of Ham 
        
 	    -  **Example**: HB/ACKs from my station at 15w and the 5 automatic responses.
 	        >  - TX 14:41:00 - (1100) - WE4SEL: HB AUTO RELAY SPOT EM54 ⣿
-    >  -  RX 4:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
-    >  -  RX14:41:30 - (654) - KV4ATV: WE4SEL ACK +00 ⣿
-    >  -  RX14:41:30 - (847) - KB8HTU: WE4SEL ACK +03 ⣿
-    >  -  RX14:41:30 - (893) - W5DXP: WE4SEL ACK +10 ⣿
-    >  -  RX14:41:57 - (1006) - W7RLF: WE4SEL ACK -06 ⣿
-
+	            >  -  RX 4:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
+	                >  -  RX 14:41:30 - (654) - KV4ATV: WE4SEL ACK +00 ⣿ 
+	                    >  -  RX 14:41:30 - (847) - KB8HTU: WE4SEL ACK +03 ⣿ 
+	                            >  -  RX 14:41:30 - (893) - W5DXP: WE4SEL ACK +10 ⣿
+	                                >  -  RX 14:41:57 - (1006) - W7RLF: WE4SEL ACK -06 ⣿
 
 
 
     
--   **Message**:
-    
--   Direct message if received intact, the receiving station will auto-reply an acknowledgement and pop up on the receiver’s screen (if enabled) and stores in a local mailbox. quite handy.
+-   **Message**: 
+-   Direct message if received intact, the receiving station will auto-reply an acknowledgement and the message will pop up on the receiver’s screen (if enabled) and stores in a local mailbox. 
+- Quite handy.
     
 -   Messages can be stored on the senders machine, to be transmitted when the target station is on the air and requests the message to be transmitted. it includes the same accuracy check that the message was delivered intact and replies with an acknowledgement to the sending station.
     
@@ -65,5 +64,5 @@ Well, that’s far too much and not nearly enough. maybe a little easier than re
 
 > Written with  [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDI5NTM2MV19
+eyJoaXN0b3J5IjpbLTQzNjk3NTAyMl19
 -->
