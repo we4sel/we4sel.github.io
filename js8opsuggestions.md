@@ -29,22 +29,21 @@ These are subject to change as better information comes along. Like much of Ham 
 
  - **Mesh**: When not active at the keys/in qso, many of operators leave their stations powered on, unattended, in AUTO/HB/ACK purely to participate in this part of the mode.
 
-	 -   Automated “ping - pong” system of  **H**eart**B**eat &  **ACK**nowledgement (**HB**,  **ACK**  &  **SNR**Lets the rest of the “network know who’s stations are available for
-   relay/message
-   Helps to see propagation in both directions, especially when combined with [PSKReporter](hhttps://bit.ly/2KmSOM5) 
-   Gives a backbone for message notification. (this was condition of my station when you messaged me). 
-   Comprises probably >75% of JS8 trafficMostly on the low offsets of 500-1000hz.
-      	   - Can lead to frustration when it’s the only traffic and someone wants to ragchew!  
-      	   - Rarely logged
+Automated “ping - pong” system of  **H**eart**B**eat &  **ACK**nowledgement (**HB**,  **ACK**  &  **SNR**Lets the rest of the “network know who’s stations are available for relay/message
+Helps to see propagation in both directions, especially when combined with [PSKReporter](hhttps://bit.ly/2KmSOM5) 
+Gives a backbone for message notification. (this was condition of my station when you messaged me). 
+Comprises probably >75% of JS8 traffic
+Mostly on the low offsets of 500-1000hz.
+Can lead to frustration when it’s the only traffic and someone wants to ragchew!  
+Rarely logged
 
        
-	    -  **Example**: HB/ACKs from my station at 15w and the 5 automatic responses.
-	        >  - TX 14:41:00 - (1100) - WE4SEL: HB AUTO RELAY SPOT EM54 ⣿
-	            >  -  RX 4:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
-	                >  -  RX 14:41:30 - (654) - KV4ATV: WE4SEL ACK +00 ⣿ 
-	                    >  -  RX 14:41:30 - (847) - KB8HTU: WE4SEL ACK +03 ⣿ 
-	                            >  -  RX 14:41:30 - (893) - W5DXP: WE4SEL ACK +10 ⣿
-	                                >  -  RX 14:41:57 - (1006) - W7RLF: WE4SEL ACK -06 ⣿
+**Example**: HB/ACKs from my station at 15w and the 5 automatic responses.
+TX 14:41:00 - (1100) - WE4SEL: HB AUTO RELAY SPOT EM54 RX 4:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
+RX 14:41:30 - (654) - KV4ATV: WE4SEL ACK +00 ⣿ 
+RX 14:41:30 - (847) - KB8HTU: WE4SEL ACK +03 ⣿ 
+RX 14:41:30 - (893) - W5DXP: WE4SEL ACK +10 ⣿
+ RX 14:41:57 - (1006) - W7RLF: WE4SEL ACK -06 ⣿
 
 
 
@@ -62,5 +61,5 @@ Well, that’s far too much and not nearly enough. maybe a little easier than re
 
 > Written with  [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3MDg5NDY1XX0=
+eyJoaXN0b3J5IjpbLTE1Nzc4OTY2NDhdfQ==
 -->
