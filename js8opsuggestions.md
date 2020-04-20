@@ -32,7 +32,7 @@ These are subject to change as better information comes along. Like much of Ham 
     > 
     > ```
     
--   - List item
+- 
 
 **Auto’s**: [Probably not the best term. If you happen to have used FSQ, i think this is an adaptation and advancement of ideas from that mode] There are a good many queries that can be sent to solicit response from a remote station without the direct intervention of the remote operator being needed. for instance, asking a station for their station info (if they set it in config), asking a station what other stations they copy, last time they heard a particular station, asking for a repeat of their last transmission (very handy), and so on.
 
@@ -53,5 +53,5 @@ Well, that’s far too much and not nearly enough. maybe a little easier than re
 
 > Written with  [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5ODUyMzY3XX0=
+eyJoaXN0b3J5IjpbMTQwNzY1MTc2N119
 -->
