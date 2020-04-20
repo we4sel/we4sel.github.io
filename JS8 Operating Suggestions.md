@@ -12,10 +12,9 @@ These are subject to change as better information comes along. Like much of Ham 
 	- Helps to see propagation in both directions (esp if combined with pskreporter). 
 	- Gives a backbone for message notification. (this was condition of my station when you messaged me). This comprises probably >75% of JS8 traffic, most of which will on the low offsets of 500-1000hz. 
 	- Can lead to frustration when it's the only traffic and someone wants to ragchew! 
-			-  	 Examples: my HB at 15w and the 5 automatic responses.
-
-		-   14:41:00 - (1100) - WE4SEL: HB AUTO RELAY SPOT EM54 ⣿
-		-   14:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
+			-  	 Examples: HB from my station at 15w and the 5 automatic responses.
+				TX 14:41:00 - (1100) - WE4SEL: HB AUTO RELAY SPOT EM54 ⣿
+	-   14:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
 		-   14:41:30 - (654) - KV4ATV: WE4SEL ACK +00 ⣿
 		-   14:41:30 - (847) - KB8HTU: WE4SEL ACK +03 ⣿
 		-   14:41:30 - (893) - W5DXP: WE4SEL ACK +10 ⣿
@@ -39,6 +38,6 @@ Well, that's far too much and not nearly enough. maybe a little easier than read
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTgyMzAyMiwtMjg3Njg4OTgxLDczMD
+eyJoaXN0b3J5IjpbLTg2NTgzMDg2NSwtMjg3Njg4OTgxLDczMD
 k5ODExNl19
 -->
