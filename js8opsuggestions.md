@@ -51,9 +51,11 @@ These are subject to change as better information comes along. Like much of Ham 
 
 
     
--   **Message**: -   Direct message if received intact, the receiving station will auto-reply an acknowledgement and the message will pop up on the receiver’s screen (if enabled) and stores in a local mailbox. 
-- Messages can be stored on the senders machine, to be transmitted when the target station is on the air and requests the message to be transmitted. it includes the same accuracy check that the message was delivered intact and replies with an acknowledgement to the sending station.
-- Quite handy.
+-   **Message**: -   
+	- Direct message if received intact, the receiving station will auto-reply an acknowledgement and the message will pop up on the receiver’s screen (if enabled) and stores in a local mailbox. 
+	- Messages can be stored on the senders machine, to be transmitted when the target station is on the air and requests the message to be transmitted.
+	- Includes the same accuracy check that the message was delivered intact and replies with an acknowledgement to the sending station.
+	- Quite handy.
 -   EG “**15:12:45 - (1100) - WE4SEL: KV4ATV ACK +12 MSG ID 6 ⣿**” in the traffic window. His station sent a HB, mine ACK’d, and since there’s a message in my outbox for him, told him it’s number for retrieval at his convenience.
     
 -   Group/Net: there are groups/nets, such as @allcall which will highlight on every receiving station as if it were directed to their personal callsign, as will other groups added with a @ in front, and can be used for nets, etc, with the typical ham creativity. i use @MS (for state) @skywarn and @net but there are lots of others. have seen @arfcom getting some traffic lately if you’re into that.
@@ -63,5 +65,5 @@ Well, that’s far too much and not nearly enough. maybe a little easier than re
 
 > Written with  [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDkwMzU2NF19
+eyJoaXN0b3J5IjpbMjY5MDQyNjk1XX0=
 -->
