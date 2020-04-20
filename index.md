@@ -23,7 +23,7 @@ If you're looking for me on the air, your best bet is via [JS8](http://js8call.c
 #### [JS8Call Main page](http://js8call.com/) 
 #### [JS8call on Github](https://github.com/jsherer/ft8call)
 
-I do occasionally work CW, with computer assistance for very bad ears. Almost any other digital mode is avilable if it can be run on a rpi and can be set up by the malfunctioning nut on the station keyboard. 
+I occasionally work CW, with computer assistance for very bad ears. Almost any other digital mode is avilable if it can be run on a rpi and can be set up by the malfunctioning nut on the station keyboard. 
 
 ![we4sel](https://i.postimg.cc/hv6yxbX5/309520-1.jpg)
 
@@ -88,5 +88,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjIxMTQ5XX0=
+eyJoaXN0b3J5IjpbLTMyNTg1MjU0NF19
 -->
