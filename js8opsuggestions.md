@@ -7,13 +7,12 @@
 <h3 id="tldr--js8-is-a-little-weird-at-first.-there-are-a-lot-of-different-things-going-on-at-the-same-time-using-the-same-space-and-its-confusing-even-if-not-new."><strong>TL;DR:</strong>  JS8 is a little weird at first. There are a lot of different things going on at the same time using the same space and it’s confusing even if not new.</h3>
 <p>These are subject to change as better information comes along. Like much of Ham Radio, it can seem like drinking from a firehose at first.  All the following is my best attempt at understanding and condensing: very little is “official information”. Please pardon if it gets either too technical or too “crayon. I’ve been trying to figure out how to write a simple  guide for folks, and this isn’t very simple but hopefully helpful at leas. Many of the things kinda blend into other categories, which gives lots of combinations and flexibility to the mode and program.</p>
 <ul>
-<li>
-<p><strong>Ragchew</strong>: (Primary purpose of mode) Active operators at their keyboards having conversations.</p>
+
+<strong>Ragchew</strong>: (Primary purpose of mode) Active operators at their keyboards having conversations.</p>
 <ul>
 <li>Often rather long, slow, patient conversations, lasting from several minutes to several hours or even days if you count multi-session “pick up in the morning where we fell asleep”, got distracted” or had to attend to real life”", etc.</li Often there may be dropped frames that have to be repeated or guessed at, whole lost messages, major shifts in prop, the usual things that happen to radio.</li>
 </ul>
 </li>
-<li>
 <p><strong>Mesh</strong>: When not active at the keys/in qso, many of operators leave their stations powered on, unattended, in auto HB/ACK, purely to participate in this part of the mode.</p>
 <ul>
 <li>
@@ -46,6 +45,8 @@
 </ul>
 </li>
 <li>
+ - List item
+
 **Auto's**: [Probably not the best term. If you happen to have used FSQ, i think this is an adaptation and advancement of ideas from that mode] There are a good many queries that can be sent to solicit response from a remote station without the direct intervention of the remote operator being needed. for instance, asking a station for their station info (if they set it in config), asking a station what other stations they copy, last time they heard a particular station, asking for a repeat of their last transmission (very handy), and so on.</p>
 </li>
 <li>
@@ -73,5 +74,5 @@
 </blockquote>
 ).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0ODg3MzAyXX0=
+eyJoaXN0b3J5IjpbLTE3ODA1NjcwNF19
 -->
