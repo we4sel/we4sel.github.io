@@ -12,13 +12,15 @@ These are subject to change as better information comes along. Like much of Ham 
 	- Helps to see propagation in both directions (esp if combined with pskreporter). 
 	- Gives a backbone for message notification. (this was condition of my station when you messaged me). This comprises probably >75% of JS8 traffic, most of which will on the low offsets of 500-1000hz. 
 	- Can lead to frustration when it's the only traffic and someone wants to ragchew! 
-			-  	 Examples: HB from my station at 15w and the 5 automatic responses.
-				TX 14:41:00 - (1100) - WE4SEL: HB AUTO RELAY SPOT EM54 ⣿
-	-   14:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
-		-   14:41:30 - (654) - KV4ATV: WE4SEL ACK +00 ⣿
-		-   14:41:30 - (847) - KB8HTU: WE4SEL ACK +03 ⣿
-		-   14:41:30 - (893) - W5DXP: WE4SEL ACK +10 ⣿
-		-   14:41:57 - (1006) - W7RLF: WE4SEL ACK -06 ⣿  
+			-  	 **Examples**: HB from my station at 15w and the 5 automatic responses.
+
+		> 		-	TX 14:41:00 - (1100) - WE4SEL: HB AUTO RELAY SPOT EM54 ⣿
+		> 		-   RX	14:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
+		> 		-  RX	 14:41:30 - (654) - KV4ATV: WE4SEL ACK +00 ⣿
+		> 		-  RX	 14:41:30 - (847) - KB8HTU: WE4SEL ACK +03 ⣿
+		> 		-  RX	 14:41:30 - (893) - W5DXP: WE4SEL ACK +10 ⣿
+		> 		-  RX	 14:41:57 - (1006) - W7RLF: WE4SEL ACK -06 ⣿
+
     
 
 -   Auto's: [Probably not the best term. If you happen to have used FSQ, i think this is an adaptation and advancement of ideas from that mode] There are a good many queries that can be sent to solicit response from a remote station without the direct intervention of the remote operator being needed. for instance, asking a station for their station info (if they set it in config), asking a station what other stations they copy, last time they heard a particular station, asking for a repeat of their last transmission (very handy), and so on.
@@ -38,6 +40,6 @@ Well, that's far too much and not nearly enough. maybe a little easier than read
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTgzMDg2NSwtMjg3Njg4OTgxLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTE0OTE0MjI1OTIsLTI4NzY4ODk4MSw3Mz
+A5OTgxMTZdfQ==
 -->
