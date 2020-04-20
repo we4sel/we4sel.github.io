@@ -7,13 +7,14 @@ These are subject to change as better information comes along. Like much of Ham 
 
 **Ragchew**: (Primary purpose of mode) Active operators at their keyboards having conversations.
 
- 1.   Often rather long, slow, patient conversations, lasting from several minutes to several hours or even days if you count multi-session “pick up in the morning where we fell asleep”, got distracted” or had to attend to real life”", etc.
+ -   Often rather long, slow, patient conversations, lasting from several minutes to several hours or even days if you count multi-session “pick up in the morning where we fell asleep”, got distracted” or had to attend to real life”", etc.
 
-**Auto**:  
+**Auto**:  Applies to several overlapping functions 
 
- -  There are a good many queries that can be sent to solicit response from a remote station without the direct intervention of the remote operator being needed. 
- - Applies to several overlapping functions, such as: 
-	 - Asking a station for their station info (if they set it in config) sking a station what other stations they copy, last time they heard a particular station, asking for a repeat of their last transmission (very handy), and so on.
+ - There are a good many queries that can be sent to solicit response from a remote station without the direct intervention of the remote operator being needed,such as: 
+	 - station info (if they set it in config) 
+	 - a station what other stations they copy
+	 - last time they heard a particular station, asking for a repeat of their last transmission (very handy), and so on.
 If you happen to have used FSQ, i think this is an adaptation and advancement of ideas from that mode
 
 -   Relay. transmissions can be relayed through intermediate stations in the case of no direct path between a pair of stations in qso, which is accomplished actively between the stations in qso but is part of the mesh functions for the intermediate stations. it’s a little tedious to use in practice, but it’s worth tinkering with and occasionally gets used. will be better when longer prop conditions return.
@@ -61,5 +62,5 @@ Well, that’s far too much and not nearly enough. maybe a little easier than re
 
 > Written with  [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzM2NzQ2MjZdfQ==
+eyJoaXN0b3J5IjpbMTMzNzc0NjE2NF19
 -->
