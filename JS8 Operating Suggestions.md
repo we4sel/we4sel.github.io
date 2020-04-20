@@ -4,9 +4,14 @@ These are subject to change as better information comes along. Like much of Ham 
 -   **Ragchew** 
 	- (Primary purpose of mode) 
 	- Active operators at their keyboards having conversations. 
-	- Often rather long, slow, patient conversations, lasting from several minutes to several hours or even days if you count multi-session "pick up in the morning where we fell asleep", "got distracted" or "had to attend to real life, etc. often there will be dropped frames for whatever reason that have to be repeated or guessed at, whole lost messages, major shifts in prop, the usual things that happen to radio.
+	- Often rather long, slow, patient conversations, lasting from several minutes to several hours or even days if you count multi-session "pick up in the morning where we fell asleep", "got distracted" or "had to attend to real life", etc. 
+	- Often there may be dropped frames that have to be repeated or guessed at, whole lost messages, major shifts in prop, the usual things that happen to radio.
 
--   **Mesh** a "ping - pong" system of Heartbeat (HB) and acknowledgement (ACK and snr) that kinda lets the rest of the "network" know who's stations are available for relay/message, help to see propagation in both directions (esp if combined with pskreporter). Gives a backbone for message notification. When not active at the keys/in qso, many of operators leave their stations powered on, unattended, in auto HB/ACK, purely to participate in this part of the mode. (this was condition of my station when you messaged me). This comprises probably >75% of js8 traffic, most of which will be from 500-1000hz. Can lead to frustration when it's the only traffic and someone wants to ragchew! (like last night)
+-   **Mesh** 
+	- a "ping - pong" system of Heartbeat (HB) and acknowledgement (ACK and snr) 
+	- Lets the rest of the "network" know who's stations are available for relay/message 
+	- Helps to see propagation in both directions (esp if combined with pskreporter). 
+	- Gives a backbone for message notification. When not active at the keys/in qso, many of operators leave their stations powered on, unattended, in auto HB/ACK, purely to participate in this part of the mode. (this was condition of my station when you messaged me). This comprises probably >75% of js8 traffic, most of which will be from 500-1000hz. Can lead to frustration when it's the only traffic and someone wants to ragchew! (like last night)
 
 -   Examples: my HB at 15w and the 5 automatic responses.
 
@@ -35,6 +40,6 @@ Well, that's far too much and not nearly enough. maybe a little easier than read
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDQ0MjEwNywtMjg3Njg4OTgxLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbMjc0MTI2NDIzLC0yODc2ODg5ODEsNzMwOT
+k4MTE2XX0=
 -->
