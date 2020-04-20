@@ -8,8 +8,9 @@ These are subject to change as better information comes along. Like much of Ham 
 **Ragchew**: (Primary purpose of mode) Active operators at their keyboards having conversations.
 
  -   Often rather long, slow, patient conversations, lasting from several minutes to several hours or even days if you count multi-session “pick up in the morning where we fell asleep”, got distracted” or had to attend to real life”", etc.
+ - 
 
-**Mesh**: When not active at the keys/in qso, many of operators leave their stations powered on, unattended, in auto HB/ACK, purely to participate in this part of the mode.
+**Mesh**: When not active at the keys/in qso, many of operators leave their stations powered on, unattended, in AUTO/HB/ACK purely to participate in this part of the mode.
 
  -   Automated “ping - pong” system of  **H**eart**B**eat &  **ACK**nowledgement (**HB**,  **ACK**  &  **SNR**)
 
@@ -32,11 +33,10 @@ These are subject to change as better information comes along. Like much of Ham 
     > 
     > ```
     
-- 
 
-**Auto’s**: [Probably not the best term. If you happen to have used FSQ, i think this is an adaptation and advancement of ideas from that mode] There are a good many queries that can be sent to solicit response from a remote station without the direct intervention of the remote operator being needed. for instance, asking a station for their station info (if they set it in config), asking a station what other stations they copy, last time they heard a particular station, asking for a repeat of their last transmission (very handy), and so on.
 
--   Relay. transmissions can be relayed through intermediate stations in the case of no direct path between a pair of stations in qso, which is accomplished actively between the stations in qso but is part of the mesh functions for the intermediate stations. it’s a little tedious to use in practice, but it’s worth tinkering with and occasionally gets used. will be better when longer prop conditions return.
+
+
     
 -   Message:
     
@@ -53,5 +53,5 @@ Well, that’s far too much and not nearly enough. maybe a little easier than re
 
 > Written with  [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzY1MTc2N119
+eyJoaXN0b3J5IjpbLTgzMzE1MTQ5MF19
 -->
