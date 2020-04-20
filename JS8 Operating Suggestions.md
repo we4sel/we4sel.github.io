@@ -1,7 +1,6 @@
 ## JS8 Operating Suggestions
-### These are subject to change as better information comes along. Like much of Ham Radio, it can seem like drinking from a firehose at first.  All the following is my best attempt at understanding and condensing: very little is "official information". Please pardon if it gets either too technical or too "crayon". I\been trying to figure out how to write a simple  guide  for folks, so this may end up as the rough draft. Many of the things kinda blend into other categories, which gives lots of combinations and flexibility.
-
-**TL;DR:**  JS8 is a little weird at first. There are a lot of different things going on at the same time using the same space and it's confusing even if not new. 
+### **TL;DR:**  JS8 is a little weird at first. There are a lot of different things going on at the same time using the same space and it's confusing even if not new. 
+These are subject to change as better information comes along. Like much of Ham Radio, it can seem like drinking from a firehose at first.  All the following is my best attempt at understanding and condensing: very little is "official information". Please pardon if it gets either too technical or too "crayon". I've been trying to figure out how to write a simple  guide for folks, and this isn't very simple but hopefully helpful at leas. Many of the things kinda blend into other categories, which gives lots of combinations and flexibility to the mode and program. 
 
   
 
@@ -42,6 +41,6 @@ Well, that's far too much and not nearly enough. maybe a little easier than read
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjY4ODQ1NywtMjg3Njg4OTgxLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTE0NTc1OTg4LC0yODc2ODg5ODEsNzMwOT
+k4MTE2XX0=
 -->
