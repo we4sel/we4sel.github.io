@@ -9,17 +9,10 @@
 
 So here you have it. 
 
- - On The Air  
+ - [On The Air]
  - [Radio] 
  - [Clubs]
- - Projects
-
-The station specs: 
-- Raspberry Pi 3b+ running Raspbian
-- IC-7300 100w barefoot max
-- MFJ-939 Autotuner
-- Homebrew 80-10 Off Center Fed Dipole, poorly built but accidentally works pretty well anyway.
-- 30 foot tall mast from scrounged and salvaged materials. 
+ - [Projects]
 
 ### ON THE AIR
 If you're looking for me on the air, your best bet is via [JS8](http://js8call.com/) on 7.078mHz.  My station stays on the air as near 24/7/365 as the weather and lightning allow. Please leave a message and repeat until you receive an ack from my station please.   *Sometimes, for the various reasons that are ham radio, messages may not get thru the first time, or first several times.*
@@ -46,5 +39,5 @@ I occasionally work CW, with computer assistance for very bad ears. Almost any o
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTk5NzcwODEsNDYzMjcyODBdfQ==
+eyJoaXN0b3J5IjpbMTE3MTQ2Mjk1OCw0NjMyNzI4MF19
 -->
