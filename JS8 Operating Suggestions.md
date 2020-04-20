@@ -6,7 +6,8 @@ These are subject to change as better information comes along. Like much of Ham 
 	- Often there may be dropped frames that have to be repeated or guessed at, whole lost messages, major shifts in prop, the usual things that happen to radio.
 
 -   **Mesh**: When not active at the keys/in qso, many of operators leave their stations powered on, unattended, in auto HB/ACK, purely to participate in this part of the mode. 
-	- an automated "ping - pong" system of Heart**B**eat (HB) and acknowledgement (ACK & SNR)
+	- an automated "ping - pong" system of **H**eart**B**eat  & **ACK**nowledgement 
+	- (**HB**, **ACK** & **SNR**)
 	- Lets the rest of the "network" know who's stations are available for relay/message 
 	- Helps to see propagation in both directions (esp if combined with pskreporter). 
 	- Gives a backbone for message notification. (this was condition of my station when you messaged me). This comprises probably >75% of js8 traffic, most of which will be from 500-1000hz. Can lead to frustration when it's the only traffic and someone wants to ragchew! (like last night)
@@ -38,6 +39,6 @@ Well, that's far too much and not nearly enough. maybe a little easier than read
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjc5NjQ3OCwtMjg3Njg4OTgxLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTIwODkwNDI2MjksLTI4NzY4ODk4MSw3Mz
+A5OTgxMTZdfQ==
 -->
