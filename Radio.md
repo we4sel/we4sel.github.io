@@ -1,12 +1,18 @@
+---
 
-The station specs: 
-- Raspberry Pi 3b+ running Raspbian
-- IC-7300 100w barefoot max
-- MFJ-939 Autotuner
-- Homebrew 80-10 Off Center Fed Dipole, poorly built but accidentally works pretty well anyway.
-- 30 foot tall mast from scrounged and salvaged materials. 
-![enter image description here](https://i.postimg.cc/hv6yxbX5/309520-1.jpg)
-> Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDg1MzkxNDNdfQ==
--->
+
+---
+
+<p>The station specs:</p>
+<ul>
+<li>Raspberry Pi 3b+ running Raspbian</li>
+<li>IC-7300 100w barefoot max</li>
+<li>MFJ-939 Autotuner</li>
+<li>Homebrew 80-10 Off Center Fed Dipole, poorly built but accidentally works pretty well anyway.</li>
+<li>30 foot tall mast from scrounged and salvaged materials.<br>
+<img src="https://i.postimg.cc/hv6yxbX5/309520-1.jpg" alt="enter image description here"></li>
+</ul>
+<blockquote>
+<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
+</blockquote>
+
