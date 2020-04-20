@@ -20,11 +20,24 @@ I do occasionally work CW, with computer assistance for very bad ears. Almost an
 
 ![we4sel](https://i.postimg.cc/hv6yxbX5/309520-1.jpg)
 
-###Clubs and such
-- 100W&aW Member #935 ![100 Watts & a Wire](https://i.postimg.cc/Gpb6QKpB/Asset-22-8x-8.png)
-- OMISS #10939
-- [NAQCC #8330](http://naqcc.info/)
+### Clubs and such
 - [National Tribal Amateur Radio Association (Club Call W7NTV)](https://www.facebook.com/NatlTribalHam/)
+- 100W&aW Member #935 ![100 Watts & a Wire](https://i.postimg.cc/Gpb6QKpB/Asset-22-8x-8.png)
+
+
+https://www.hrdlog.net/hrdlogframe.aspx?user=WE4SEL&lastqso=&qsomap=800&options=viewonair;search;viewbandslots;viewdxcc;
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
