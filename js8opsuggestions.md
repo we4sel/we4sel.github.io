@@ -38,24 +38,19 @@ These are subject to change as better information comes along. Like much of Ham 
 	   - Can lead to frustration when it’s the only traffic and someone wants to ragchew!  
 	   - Rarely logged
        
-    -  **Examples**: HB from my station at 15w and the 5 automatic responses.
-    
-    > ```
-    >   -	TX 14:41:00 - (1100) - WE4SEL: HB AUTO RELAY SPOT EM54 ⣿
-    >  - RX 4:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
+	    -  **Example**: HB/ACKs from my station at 15w and the 5 automatic responses.
+	        >  - TX 14:41:00 - (1100) - WE4SEL: HB AUTO RELAY SPOT EM54 ⣿
+    >  -  RX 4:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
     >  -  RX14:41:30 - (654) - KV4ATV: WE4SEL ACK +00 ⣿
     >  -  RX14:41:30 - (847) - KB8HTU: WE4SEL ACK +03 ⣿
     >  -  RX14:41:30 - (893) - W5DXP: WE4SEL ACK +10 ⣿
     >  -  RX14:41:57 - (1006) - W7RLF: WE4SEL ACK -06 ⣿
-    > 
-    > ```
-    
 
 
 
 
     
--   Message:
+-   **Message**:
     
 -   Direct message if received intact, the receiving station will auto-reply an acknowledgement and pop up on the receiver’s screen (if enabled) and stores in a local mailbox. quite handy.
     
@@ -70,5 +65,5 @@ Well, that’s far too much and not nearly enough. maybe a little easier than re
 
 > Written with  [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzYxNjAxNDddfQ==
+eyJoaXN0b3J5IjpbMTY1MDI5NTM2MV19
 -->
