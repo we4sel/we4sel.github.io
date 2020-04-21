@@ -38,16 +38,16 @@ These are subject to change as better information comes along. Like much of Ham 
 	   - Mostly on the low offsets of 500-1000hz.  
 	   - Can lead to frustration when it’s the only traffic and someone wants to ragchew!    
 	   - Rarely logged
+     
+		
 
-       
-		    E.G. HB/ACKs from my station at 15w 
-		         and the 5 automatic responses.
-		    TX 14:41:00 - (1100) - WE4SEL: HB AUTO RELAY SPOT EM54 ⣿
-		    RX 4:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
-		    RX 14:41:30 - (654) - KV4ATV: WE4SEL ACK +00 ⣿ 
-		    RX 14:41:30 - (847) - KB8HTU: WE4SEL ACK +03 ⣿ 
-		    RX 14:41:30 - (893) - W5DXP: WE4SEL ACK +10 ⣿
-		    RX 14:41:57 - (1006) - W7RLF: WE4SEL ACK -06 ⣿
+		> E.G. HB/ACKs from my station at 15w and the 5 automatic responses.
+		> 	    TX 14:41:00 - (1100) - WE4SEL: HB AUTO RELAY SPOT EM54 ⣿
+		> 	    RX 4:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
+		> 	    RX 14:41:30 - (654) - KV4ATV: WE4SEL ACK +00 ⣿ 
+		> 	    RX 14:41:30 - (847) - KB8HTU: WE4SEL ACK +03 ⣿ 
+		> 	    RX 14:41:30 - (893) - W5DXP: WE4SEL ACK +10 ⣿
+		> 	    RX 14:41:57 - (1006) - W7RLF: WE4SEL ACK -06 ⣿
 
 
 
@@ -70,6 +70,6 @@ These are subject to change as better information comes along. Like much of Ham 
 Well, that’s far too much and not nearly enough. Maybe a little easier than reading all the documentation, but that’s also an **[VERY GOOD IDEA](http://files.js8call.com/latest.html)**. In any case is enough rambling from me. Will be glad to try and answer any questions I can.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjcwOTU0MSwtMTgwMzI5MDg0MiwxMz
+eyJoaXN0b3J5IjpbLTQyMTU3ODMzOSwtMTgwMzI5MDg0MiwxMz
 AyNzE0MDgsMTUwMzY2NzU5MywxODEwODcyNjkwXX0=
 -->
