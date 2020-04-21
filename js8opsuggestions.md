@@ -28,15 +28,15 @@ These are subject to change as better information comes along. Like much of Ham 
 	 - Will be better when longer prop conditions return. 
 	 - Rarely Logged
  - **Mesh**: When not active at the keys/in qso, many of operators leave their stations powered on, unattended, in AUTO/HB/ACK purely to participate in this part of the mode. 
-	 - Automated “ping - pong” system of  **H**eart**B**eat &    **ACK**nowledgement (**HB**,  **ACK**  &  **SNR** 
-	 - Lets the rest of the “network know who’s stations are available for relay/messages 
-	 - Helps to see propagation in both directions, especially when combined
-   with [PSKReporter](hhttps://bit.ly/2KmSOM5)
-   - Gives a backbone for message notification. 
-   - Comprises probably >75% of JS8 traffic 
-   - Mostly on the low offsets of 500-1000hz. 
-   - Can lead to frustration when it’s the only traffic and someone wants to ragchew!   
-   - Rarely logged
+Automated “ping - pong” system of  **H**eart**B**eat &    **ACK**nowledgement (**HB**,  **ACK**  &  **SNR** 
+Lets the rest of the “network know who’s stations are available for relay/messages 
+Helps to see propagation in both directions, especially when combined
+with [PSKReporter](hhttps://bit.ly/2KmSOM5)
+Gives a backbone for message notification. 
+Comprises probably >75% of JS8 traffic 
+Mostly on the low offsets of 500-1000hz. 
+Can lead to frustration when it’s the only traffic and someone wants to ragchew!   
+Rarely logged
 
        
 		    E.G. HB/ACKs from my station at 15w 
@@ -69,6 +69,6 @@ These are subject to change as better information comes along. Like much of Ham 
 Well, that’s far too much and not nearly enough. Maybe a little easier than reading all the documentation, but that’s also an **[VERY GOOD IDEA](http://files.js8call.com/latest.html)**. In any case is enough rambling from me. Will be glad to try and answer any questions I can.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTMxMDI0MywtMTgwMzI5MDg0MiwxMz
+eyJoaXN0b3J5IjpbMTUzMjM2NjQ4NywtMTgwMzI5MDg0MiwxMz
 AyNzE0MDgsMTUwMzY2NzU5MywxODEwODcyNjkwXX0=
 -->
