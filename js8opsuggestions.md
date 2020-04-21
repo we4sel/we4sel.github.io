@@ -57,7 +57,7 @@ These are subject to change as better information comes along. Like much of Ham 
 	- Includes the same accuracy check that the message was delivered intact and replies with an acknowledgement to the sending station.
 	- Quite handy.
 	-   	E.G. 15:12:45 - (1100) - WE4SEL: KV4ATV ACK +12 MSG ID 6 ⣿
-		- in the traffic window. His station sent a HB, mine ACK’d, and since there’s a message in my outbox for him, told him it’s number for retrieval at his convenience.
+		in the traffic window. His station sent a HB, mine ACK’d, and since there’s a message in my outbox for him, told him it’s number for retrieval at his convenience.
     
 -   **Group/Net**: 
 	- There are groups/nets, such as @allcall @net etc 
@@ -69,6 +69,6 @@ These are subject to change as better information comes along. Like much of Ham 
 Well, that’s far too much and not nearly enough. Maybe a little easier than reading all the documentation, but that’s also an **[VERY GOOD IDEA](http://files.js8call.com/latest.html)**. In any case is enough rambling from me. Will be glad to try and answer any questions I can.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2NzMwNzM1LC0xODAzMjkwODQyLDEzMD
-I3MTQwOCwxNTAzNjY3NTkzLDE4MTA4NzI2OTBdfQ==
+eyJoaXN0b3J5IjpbLTI3MTE1MjAzNiwtMTgwMzI5MDg0MiwxMz
+AyNzE0MDgsMTUwMzY2NzU5MywxODEwODcyNjkwXX0=
 -->
