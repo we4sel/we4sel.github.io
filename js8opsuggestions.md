@@ -52,8 +52,7 @@ These are subject to change as better information comes along. Like much of Ham 
 
 
     
--   **Message**: -   
-	- Direct message if received intact, the receiving station will auto-reply an acknowledgement and the message will pop up on the receiver’s screen (if enabled) and stores in a local mailbox. 
+-   **Message**: -   	- Direct message if received intact, the receiving station will auto-reply an acknowledgement and the message will pop up on the receiver’s screen (if enabled) and stores in a local mailbox. 
 	- Messages can be stored on the senders machine, to be transmitted when the target station is on the air and requests the message to be transmitted.
 	- Includes the same accuracy check that the message was delivered intact and replies with an acknowledgement to the sending station.
 	- Quite handy.
@@ -70,6 +69,6 @@ These are subject to change as better information comes along. Like much of Ham 
 Well, that’s far too much and not nearly enough. Maybe a little easier than reading all the documentation, but that’s also an **[VERY GOOD IDEA](http://files.js8call.com/latest.html)**. In any case is enough rambling from me. Will be glad to try and answer any questions I can.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTU3ODMzOSwtMTgwMzI5MDg0MiwxMz
-AyNzE0MDgsMTUwMzY2NzU5MywxODEwODcyNjkwXX0=
+eyJoaXN0b3J5IjpbNTE2NzMwNzM1LC0xODAzMjkwODQyLDEzMD
+I3MTQwOCwxNTAzNjY3NTkzLDE4MTA4NzI2OTBdfQ==
 -->
