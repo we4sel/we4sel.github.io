@@ -27,7 +27,9 @@ I occasionally work CW, with computer assistance for very bad ears. Almost any o
 	- Salvaged lead-acid storage batteries (not nearly enough)
     ![enter image description here](https://i.postimg.cc/hv6yxbX5/309520-1.jpg)
 
-v042020201900
+---
+  "Talking to Aliens"
+v042120200900
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjIwODUxNSw4MDU1ODI0MDJdfQ==
+eyJoaXN0b3J5IjpbLTgzMjEwMzQxLDgwNTU4MjQwMl19
 -->
