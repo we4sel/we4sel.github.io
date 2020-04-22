@@ -1,6 +1,6 @@
 # ON THE AIR
 
-#### ++[Home ](index.md) ++[Station and Contact On The Air](you are here)++[Online Radio Clubs & Organizations](hclubs.md)++[Projects](projects.md)++[JS8Call Operating Suggestions and Information](js8opsuggestions.md)
+#### ++[Home ](index.md) ++Station and Contact On The Air(you are here)++[Online Radio Clubs & Organizations](hclubs.md)++[Projects](projects.md)++[JS8Call Operating Suggestions and Information](js8opsuggestions.md)
 ---
 
 If you’re looking for me on the air, your best bet is via  [JS8](http://js8call.com/)  on 7.078mHz. My station stays on the air as near 24/7/365 as the weather and lightning allow. Please leave a message and repeat until you receive an ack from my station please.  _Sometimes, for the various reasons that are ham radio, messages may not get thru the first time, or first several times._
@@ -31,5 +31,5 @@ I occasionally work CW, with computer assistance for very bad ears. Almost any o
   "Talking to Aliens"
 v042120200900
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTMyNzYzNiw4MDU1ODI0MDJdfQ==
+eyJoaXN0b3J5IjpbMjg4MDkyOTM2LDgwNTU4MjQwMl19
 -->
