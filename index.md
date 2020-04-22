@@ -7,7 +7,7 @@
 
 So here you have it. If you’re looking for me on the air, your best bet is via  [JS8](http://js8call.com/)  on 7.078mHz.
 
-- [Home}(index.md)
+- [Home (You are here)](index.md)
 -   [Station and Contact On The Air](ontheair.md)
 -   [Online Radio Clubs & Organizations](hclubs.md)
 -   [Projects](projects.md)
@@ -17,7 +17,7 @@ So here you have it. If you’re looking for me on the air, your best bet is via
 ##  "Talking to Aliens"
 v042020201515
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI5MTA4NTEsLTE2MjIwNDgzNzcsNj
-g5NjQwNTEyLC03NzcyNTE4ODAsLTMzNjgyODIwMCwxNTAwMTc4
-NjUzLDIwMzM5MTU0LC04MjYyMDg0MzRdfQ==
+eyJoaXN0b3J5IjpbMTE0NTE4NDQ2NywtMTYyMjA0ODM3Nyw2OD
+k2NDA1MTIsLTc3NzI1MTg4MCwtMzM2ODI4MjAwLDE1MDAxNzg2
+NTMsMjAzMzkxNTQsLTgyNjIwODQzNF19
 -->
