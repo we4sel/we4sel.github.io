@@ -1,6 +1,6 @@
-##JS8 Operating Suggestions
+# JS8 Operating Suggestions
 
-++[Home ](index.md) ++[Station and Contact On The Air](ontheair.md)++[Online Radio Clubs & Organizations](hclubs.md)++[Projects](projects.md)++[JS8Call Operating Suggestions and Information](You are here)
+### ++[Home ](index.md) ++[Station and Contact On The Air](ontheair.md)++[Online Radio Clubs & Organizations](hclubs.md)++[Projects](projects.md)++[JS8Call Operating Suggestions and Information](You are here)
 ---
 ### **TL;DR:**  JS8 is a little weird at first. There are a lot of different things going on at the same time using the same space and it can be confusing, even if not new to Ham Radio or JS8. There is much much more, but these are the things I use most often, and how.
 
@@ -70,6 +70,7 @@ These are subject to change as better information comes along. Like much of Ham 
 Well, that’s far too much and not nearly enough. Maybe a little easier than reading all the documentation, but that’s also an **[VERY GOOD IDEA](http://files.js8call.com/latest.html)**. In any case is enough rambling from me. Will be glad to try and answer any questions I can.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1NTc1MTM1LC0xODAzMjkwODQyLDEzMD
-I3MTQwOCwxNTAzNjY3NTkzLDE4MTA4NzI2OTBdfQ==
+eyJoaXN0b3J5IjpbNzM3NzYzNjQ3LDg3NTU3NTEzNSwtMTgwMz
+I5MDg0MiwxMzAyNzE0MDgsMTUwMzY2NzU5MywxODEwODcyNjkw
+XX0=
 -->
