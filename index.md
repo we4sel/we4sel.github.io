@@ -14,9 +14,9 @@ So here you have it. If you’re looking for me on the air, your best bet is via
 
 ---
   "Talking to Aliens"
-v042020201515
+v042120200900
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk0OTQwOTgsLTE2MjIwNDgzNzcsNj
-g5NjQwNTEyLC03NzcyNTE4ODAsLTMzNjgyODIwMCwxNTAwMTc4
-NjUzLDIwMzM5MTU0LC04MjYyMDg0MzRdfQ==
+eyJoaXN0b3J5IjpbNDg2NTg2NzMyLC0xNjIyMDQ4Mzc3LDY4OT
+Y0MDUxMiwtNzc3MjUxODgwLC0zMzY4MjgyMDAsMTUwMDE3ODY1
+MywyMDMzOTE1NCwtODI2MjA4NDM0XX0=
 -->
