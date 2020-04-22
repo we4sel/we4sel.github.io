@@ -71,8 +71,12 @@ These are subject to change as better information comes along. Like much of Ham 
 
 Well, that’s far too much and not nearly enough. Maybe a little easier than reading all the documentation, but that’s also an **[VERY GOOD IDEA](http://files.js8call.com/latest.html)**. In any case is enough rambling from me. Will be glad to try and answer any questions I can.
 
+
+---
+  "Talking to Aliens"
+v042120200900
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzMyNDkyNDksODc1NTc1MTM1LC0xOD
-AzMjkwODQyLDEzMDI3MTQwOCwxNTAzNjY3NTkzLDE4MTA4NzI2
-OTBdfQ==
+eyJoaXN0b3J5IjpbMTEwMjM1OTE1Nyw4NzU1NzUxMzUsLTE4MD
+MyOTA4NDIsMTMwMjcxNDA4LDE1MDM2Njc1OTMsMTgxMDg3MjY5
+MF19
 -->
