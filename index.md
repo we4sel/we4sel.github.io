@@ -10,13 +10,13 @@ So here you have it. If you’re looking for me on the air, your best bet is via
 
 
 ### ++[Home ](index.md) ++[Station and Contact On The Air](ontheair.md)++[Online Radio Clubs & Organizations](hclubs.md)++[Projects](projects.md)++[JS8Call Operating Suggestions and Information](js8opsuggestions.md)
----(you are here)
+---(you *are* here!)
 
-
+---
   "Talking to Aliens"
 v042020201515
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjE3NDcxMjIsLTE2MjIwNDgzNzcsNj
+eyJoaXN0b3J5IjpbLTE2ODk0OTQwOTgsLTE2MjIwNDgzNzcsNj
 g5NjQwNTEyLC03NzcyNTE4ODAsLTMzNjgyODIwMCwxNTAwMTc4
 NjUzLDIwMzM5MTU0LC04MjYyMDg0MzRdfQ==
 -->
