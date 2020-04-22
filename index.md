@@ -7,17 +7,14 @@
 
 So here you have it. If you’re looking for me on the air, your best bet is via  [JS8](http://js8call.com/)  on 7.078mHz.
 
-++ [Home ](index.md)
-++[Station and Contact On The Air](ontheair.md)
-++[Online Radio Clubs & Organizations](hclubs.md)(You are here)
-++[Projects](projects.md)
-++[JS8Call Operating Suggestions and Information](js8opsuggestions.md)
+### ++[Home ](index.md) ++[Station and Contact On The Air](ontheair.md)++[Online Radio Clubs & Organizations](hclubs.md)++[Projects](projects.md)++[JS8Call Operating Suggestions and Information](js8opsuggestions.md)
+---
 
 
 ##  "Talking to Aliens"
 v042020201515
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwMTU3Njk4LC0xNjIyMDQ4Mzc3LDY4OT
-Y0MDUxMiwtNzc3MjUxODgwLC0zMzY4MjgyMDAsMTUwMDE3ODY1
-MywyMDMzOTE1NCwtODI2MjA4NDM0XX0=
+eyJoaXN0b3J5IjpbMTA0ODMzMjU2NiwtMTYyMjA0ODM3Nyw2OD
+k2NDA1MTIsLTc3NzI1MTg4MCwtMzM2ODI4MjAwLDE1MDAxNzg2
+NTMsMjAzMzkxNTQsLTgyNjIwODQzNF19
 -->
