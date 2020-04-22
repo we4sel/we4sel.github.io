@@ -1,5 +1,4 @@
-
- ##JS8 Operating Suggestions
+##JS8 Operating Suggestions
 
 ++[Home ](index.md) ++[Station and Contact On The Air](ontheair.md)++[Online Radio Clubs & Organizations](hclubs.md)++[Projects](projects.md)++[JS8Call Operating Suggestions and Information](You are here)
 ---
@@ -71,6 +70,6 @@ These are subject to change as better information comes along. Like much of Ham 
 Well, that’s far too much and not nearly enough. Maybe a little easier than reading all the documentation, but that’s also an **[VERY GOOD IDEA](http://files.js8call.com/latest.html)**. In any case is enough rambling from me. Will be glad to try and answer any questions I can.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc2MDg0MzUsLTE4MDMyOTA4NDIsMT
-MwMjcxNDA4LDE1MDM2Njc1OTMsMTgxMDg3MjY5MF19
+eyJoaXN0b3J5IjpbODc1NTc1MTM1LC0xODAzMjkwODQyLDEzMD
+I3MTQwOCwxNTAzNjY3NTkzLDE4MTA4NzI2OTBdfQ==
 -->
