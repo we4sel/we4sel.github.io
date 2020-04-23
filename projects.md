@@ -8,12 +8,13 @@
  -  Solar storage upgrade
  - MK4 VW 1.9L PD-TDI
  - 3018 mini CNC
- - 50w CO<sup>2 Laser
+ - 50w CO<sup>2</sup> Laser Cutter/Engraver 
+ - 
 
 
 ---
   "Talking to Aliens" v042120200900
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTIyNDk4NCwxNDI4ODcyNDQxLDg2ND
-AyNzI1M119
+eyJoaXN0b3J5IjpbNTUwMzAzMjk0LDE0Mjg4NzI0NDEsODY0MD
+I3MjUzXX0=
 -->
