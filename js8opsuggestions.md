@@ -73,10 +73,9 @@ Well, that’s far too much and not nearly enough. Maybe a little easier than re
 
 
 ---
-  "Talking to Aliens"
-v042120200900
+  "Talking to Aliens" v042120200900
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTkzMTgwNiw4NzU1NzUxMzUsLTE4MD
-MyOTA4NDIsMTMwMjcxNDA4LDE1MDM2Njc1OTMsMTgxMDg3MjY5
-MF19
+eyJoaXN0b3J5IjpbLTE2Mjg5Nzg5MDAsODc1NTc1MTM1LC0xOD
+AzMjkwODQyLDEzMDI3MTQwOCwxNTAzNjY3NTkzLDE4MTA4NzI2
+OTBdfQ==
 -->
