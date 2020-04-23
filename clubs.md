@@ -9,9 +9,8 @@
 [![100 Watts & a Wire](https://i.postimg.cc/Gpb6QKpB/Asset-22-8x-8.png)](https://bit.ly/2XOV0nl)
 
 ---
-  "Talking to Aliens"
-v042120200900
+  "Talking to Aliens" v042120200900
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MjQ0ODQ4NSwtMTM1NjU5NTI1OSwtMT
-YyMjgwNjcyNiwxNTYyNzc5MTYzXX0=
+eyJoaXN0b3J5IjpbLTE2MTE5OTQ0OTEsLTEzNTY1OTUyNTksLT
+E2MjI4MDY3MjYsMTU2Mjc3OTE2M119
 -->
