@@ -9,12 +9,14 @@
  - MK4 VW 1.9L PD-TDI
  - 3018 mini CNC
  - 50w CO<sup>2</sup> Laser Cutter/Engraver 
- - 
+ - Hydroponic/Aquaponic Garden
+ - "Short Bus" to RV
+ 
 
 
 ---
   "Talking to Aliens" v042120200900
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwMzAzMjk0LDE0Mjg4NzI0NDEsODY0MD
-I3MjUzXX0=
+eyJoaXN0b3J5IjpbMTMwMTMxNjcyMiw1NTAzMDMyOTQsMTQyOD
+g3MjQ0MSw4NjQwMjcyNTNdfQ==
 -->
