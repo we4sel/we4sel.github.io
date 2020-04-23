@@ -30,9 +30,8 @@ I occasionally work CW, with computer assistance for very bad ears. Almost any o
     ![enter image description here](https://i.postimg.cc/hv6yxbX5/309520-1.jpg)
 
 ---
-  "Talking to Aliens"
-v042120200900
+  "Talking to Aliens" v042220202030
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjgyMTMxMCwtMTEwMDgxMjMwMCw4MD
-U1ODI0MDJdfQ==
+eyJoaXN0b3J5IjpbLTE0NzM3MTkyNzUsLTExMDA4MTIzMDAsOD
+A1NTgyNDAyXX0=
 -->
