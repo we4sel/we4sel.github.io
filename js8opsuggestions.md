@@ -6,7 +6,7 @@
 
 ### **TL;DR:**  JS8 is a little weird at first. There are a lot of different things going on at the same time using the same space and it can be confusing, even if not new to Ham Radio or JS8. There is much much more, but these are the things I use most often, and how. 
 
-NOTICE: There is much I have wrong, or there could certainly be better ways of doing almost everything than those I have described here. I'm open to suggestions and will give due consideration to those received, and if they
+*NOTICE: in the following is much I may have wrong, or there could certainly be better ways of doing almost everything than those I have described here. I'm open to suggestions and will give due consideration to those received, and if they seem to work better, then the following will certainly be updated to reflect best practices as I understand them.* 
 
 These are subject to change as better information comes along. Like much of Ham Radio, it can seem like drinking from a firehose at first. All the following is my best attempt at understanding and condensing: very little is “official information”. Please pardon if it gets either too technical or too “crayon. I’ve been trying to figure out how to write a simple guide for folks, and this isn’t very simple but hopefully helpful at leas. Many of the things blend into other categories, which gives lots of combinations and flexibility to the mode and program.
 
@@ -77,7 +77,7 @@ Well, that’s far too much and not nearly enough. Maybe a little easier than re
 ---
   "Talking to Aliens" v042520201900
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTE4MDc0OSw4NzU1NzUxMzUsLTE4MD
-MyOTA4NDIsMTMwMjcxNDA4LDE1MDM2Njc1OTMsMTgxMDg3MjY5
-MF19
+eyJoaXN0b3J5IjpbLTEwODk0Njk0MDgsODc1NTc1MTM1LC0xOD
+AzMjkwODQyLDEzMDI3MTQwOCwxNTAzNjY3NTkzLDE4MTA4NzI2
+OTBdfQ==
 -->
