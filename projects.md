@@ -2,7 +2,7 @@
   
 
 ## Projects
-#### ++[Home ](index.md) ++[Station and Contact On The Air](ontheair.md)++[Online Radio Clubs & Organizations](hclubs.md)++Projects(you are here)++[JS8Call Operating Suggestions and Information](js8opsuggestions.md)
+#### ++[Home ](index.md) ++[Station and Contact On The Air](ontheair.md)++[Online Radio Clubs & Organizations](clubs.md)++Projects(you are here)++[JS8Call Operating Suggestions and Information](js8opsuggestions.md)
 ---
 Parking lot for projects waiting for something. 
 
@@ -23,6 +23,7 @@ Parking lot for projects waiting for something.
 ---
   "Talking to Aliens" v042420201241
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyNDg4MTA4LDEzMDEzMTY3MjIsNTUwMz
-AzMjk0LDE0Mjg4NzI0NDEsODY0MDI3MjUzXX0=
+eyJoaXN0b3J5IjpbLTE4MjA4OTAwNTgsODMyNDg4MTA4LDEzMD
+EzMTY3MjIsNTUwMzAzMjk0LDE0Mjg4NzI0NDEsODY0MDI3MjUz
+XX0=
 -->
