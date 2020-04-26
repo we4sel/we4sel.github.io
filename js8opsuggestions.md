@@ -46,11 +46,11 @@ These are subject to change as better information comes along. Like much of Ham 
      
 		
 
-		> E.G. HB/ACKs from my station at 15w and the 5 automatic responses.
-		> 	    TX 14:41:00 - (1100) - WE4SEL: HB AUTO RELAY SPOT EM54 ⣿
-		> 	    RX 4:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
-		> 	    RX 14:41:30 - (654) - KV4ATV: WE4SEL ACK +00 ⣿ 
-		> 	    RX 14:41:30 - (847) - KB8HTU: WE4SEL ACK +03 ⣿ 
+		 E.G. HB/ACKs from my station at 15w and the 5 automatic responses.
+		- TX 14:41:00 - (1100) - WE4SEL: HB AUTO RELAY SPOT EM54 ⣿
+		RX 4:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
+		RX 14:41:30 - (654) - KV4ATV: WE4SEL ACK +00 ⣿ 
+		RX 14:41:30 - (847) - KB8HTU: WE4SEL ACK +03 ⣿ 
 		> 	    RX 14:41:30 - (893) - W5DXP: WE4SEL ACK +10 ⣿
 		> 	    RX 14:41:57 - (1006) - W7RLF: WE4SEL ACK -06 ⣿
 
@@ -77,7 +77,7 @@ Well, that’s far too much and not nearly enough. Maybe a little easier than re
 ---
   "Talking to Aliens" v042520201900
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODk0Njk0MDgsODc1NTc1MTM1LC0xOD
-AzMjkwODQyLDEzMDI3MTQwOCwxNTAzNjY3NTkzLDE4MTA4NzI2
-OTBdfQ==
+eyJoaXN0b3J5IjpbLTE4MjU0ODAwMTcsLTEwODk0Njk0MDgsOD
+c1NTc1MTM1LC0xODAzMjkwODQyLDEzMDI3MTQwOCwxNTAzNjY3
+NTkzLDE4MTA4NzI2OTBdfQ==
 -->
