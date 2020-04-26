@@ -3,7 +3,7 @@
 
 #### “If we could read the secret history of our enemies, we should find in each man’s life sorrow and suffering enough to disarm all hostility.” ― Henry Wadsworth Longfellow
 
-So here you have it. If you’re looking for me on the air, your best bet is via  [JS8](http://js8call.com/)  on 7.078mHz.
+So here you have it. You  _are_  here, aren't you? If you’re looking for me on the air, your best bet is via  [JS8](http://js8call.com/)  on 7.078mHz.
 
 ### ++Home (you are here) ++[Station Info and Contact On The Air](ontheair.md)++[Online Radio Clubs & Organizations](clubs.md)++[Projects](projects.md)++[JS8Call Operating Suggestions and Information](js8opsuggestions.md)
 
@@ -11,7 +11,9 @@ So here you have it. If you’re looking for me on the air, your best bet is via
 
 ----------
 
-“Talking to Aliens” v042520201830
+“Talking to Aliens” v042620201245
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzA5NDQ2NiwtMTY4MTI3ODU5NV19
+eyJoaXN0b3J5IjpbLTE2NzI5NjA3MjksLTE2ODEyNzg1OTVdfQ
+==
 -->
