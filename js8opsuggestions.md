@@ -32,7 +32,7 @@ These are subject to change as better information comes along. Like much of Ham 
 	 - It’s a little tedious to use in practice, but it’s worth tinkering with and learning to utilize. 
 	 - Will be better when longer prop conditions return. 
 	 - Rarely Logged
- - **Mesh**: When not active at the keys/in qso, many of operators leave their stations powered on, unattended, in AUTO/HB/ACK purely to participate in this part of the mode. 
+ - **Mesh**: When not active at the keys/in qso, many of operators leave their stations powered on, unattended, in AUTO/HB/ACK purely to participate in this part of the mode.  These are almost never someone actually at the keyboard responding p
 
 	 - Automated “ping - pong” system of  **H**eart**B**eat & **ACK**nowledgement (**HB**,  **ACK**  &  **SNR**  
 	  - Lets the rest of the “network know who’s stations are available for relay/messages 
@@ -44,17 +44,12 @@ These are subject to change as better information comes along. Like much of Ham 
 	   - Can lead to frustration when it’s the only traffic and someone wants to ragchew!    
 	   - Rarely logged
 	   - E.G. HB/ACKs from my station at 15w and the 5 automatic responses.
-	   - 	   TX 14:41:00 - (1100) - WE4SEL: HB AUTO RELAY SPOT EM54 ⣿
-		RX 4:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
-		RX 14:41:30 - (654) - KV4ATV: WE4SEL ACK +00 ⣿ 
-		RX 14:41:30 - (847) - KB8HTU: WE4SEL ACK +03 ⣿ 
-		RX 14:41:30 - (893) - W5DXP: WE4SEL ACK +10 ⣿
-		RX 14:41:57 - (1006) - W7RLF: WE4SEL ACK -06 ⣿
-
-
-
-
-    
+	   TX 14:41:00 - (1100) - WE4SEL: HB AUTO RELAY SPOT EM54 ⣿
+RX 4:41:29 - (545) - AF5AV: WE4SEL ACK +01 ⣿
+RX 14:41:30 - (654) - KV4ATV: WE4SEL ACK +00 ⣿ 
+RX 14:41:30 - (847) - KB8HTU: WE4SEL ACK +03 ⣿ 
+RX 14:41:30 - (893) - W5DXP: WE4SEL ACK +10 ⣿
+RX 14:41:57 - (1006) - W7RLF: WE4SEL ACK -06 ⣿
 -   **Message**: -   	- Direct message if received intact, the receiving station will auto-reply an acknowledgement and the message will pop up on the receiver’s screen (if enabled) and stores in a local mailbox. 
 	- Messages can be stored on the senders machine, to be transmitted when the target station is on the air and requests the message to be transmitted.
 	- Includes the same accuracy check that the message was delivered intact and replies with an acknowledgement to the sending station.
@@ -75,7 +70,7 @@ Well, that’s far too much and not nearly enough. Maybe a little easier than re
 ---
   "Talking to Aliens" v042520201900
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTU5MTI2MzQsLTEwODk0Njk0MDgsOD
-c1NTc1MTM1LC0xODAzMjkwODQyLDEzMDI3MTQwOCwxNTAzNjY3
-NTkzLDE4MTA4NzI2OTBdfQ==
+eyJoaXN0b3J5IjpbLTUzNjIzMzgwMSwtMTA4OTQ2OTQwOCw4Nz
+U1NzUxMzUsLTE4MDMyOTA4NDIsMTMwMjcxNDA4LDE1MDM2Njc1
+OTMsMTgxMDg3MjY5MF19
 -->
