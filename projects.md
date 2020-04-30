@@ -10,8 +10,9 @@ Parking lot for projects waiting for something.
   ### Waiting
   - 3018 mini CNC
   - Hydroponic/Aquaponic Garden
-  -
- ### Started
+
+ ### Started  
+ - 3 sisters gardens
  - MK4 VW 1.9L PD-TDI
 
  ### Finished
@@ -21,9 +22,9 @@ Parking lot for projects waiting for something.
  - ESP8266 MQTT thing
 - "Short Bus" to RV
 ---
-  "Talking to Aliens" v042420201241
+  "Talking to Aliens" v043020201641
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA4OTAwNTgsODMyNDg4MTA4LDEzMD
+eyJoaXN0b3J5IjpbLTE0NjY0Mjc1NDEsODMyNDg4MTA4LDEzMD
 EzMTY3MjIsNTUwMzAzMjk0LDE0Mjg4NzI0NDEsODY0MDI3MjUz
 XX0=
 -->
