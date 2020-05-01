@@ -6,7 +6,7 @@
 ---
 ```mermaid
 graph LR
-A{Raspberry Pi 3b+} -- Link text --> B((Circle))
+A[Raspberry Pi 3b+] -- Link text --> B(Raspbian)
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
@@ -14,5 +14,5 @@ C --> D
 ---
   "Talking to Aliens" v042120200900
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzQ5MTM3MF19
+eyJoaXN0b3J5IjpbLTUwOTExMzM2OSwtOTEzNDkxMzcwXX0=
 -->
