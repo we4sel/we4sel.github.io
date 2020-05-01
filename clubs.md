@@ -1,7 +1,20 @@
 
 # Online Clubs and Such
 
-#### ++[Home ](index.md) ++[Station and Contact On The Air](ontheair.md)++Online Radio Clubs & Organizations(you are here)++[Projects](projects.md)++[JS8Call Operating Suggestions and Information](js8opsuggestions.md)
+```mermaid
+graph LR
+a(Home) --- b(Station)
+b---c(On the Air?)
+c--- d(Clubs) 
+d--- e(Projects)
+e---f(JS8 Operating Help)
+click a "index.md"
+click b "station.md"
+click c "ontheair.md"
+click d "clubs.md"
+click f "js8help.md"
+click e "projects.md"
+```
 ---
 
 -   [National Tribal Amateur Radio Association (Club Call W7NTV)](https://www.facebook.com/NatlTribalHam/)
@@ -11,6 +24,6 @@
 ---
   "Talking to Aliens" v042120200900
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTE5OTQ0OTEsLTEzNTY1OTUyNTksLT
-E2MjI4MDY3MjYsMTU2Mjc3OTE2M119
+eyJoaXN0b3J5IjpbLTI2MDQ0MzM5OCwtMTYxMTk5NDQ5MSwtMT
+M1NjU5NTI1OSwtMTYyMjgwNjcyNiwxNTYyNzc5MTYzXX0=
 -->
