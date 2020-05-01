@@ -8,13 +8,14 @@ c--- d(Clubs)
 d--- e(Projects)
 e---f(JS8 Operating Help)
 click a "index.md"
-click b ""
-click c ""
-click d ""
-clidk e
+click b "station.md"
+click c "ontheair.md"
+click d "clubs.md"
+click f "js8help.md"
+click e ""
 
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTUwODE3M119
+eyJoaXN0b3J5IjpbMTM2MTE1OTQ4NV19
 -->
