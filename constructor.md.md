@@ -12,10 +12,9 @@ click b "station.md"
 click c "ontheair.md"
 click d "clubs.md"
 click f "js8help.md"
-click e ""
-
+click e "projects.md"
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTE1OTQ4NV19
+eyJoaXN0b3J5IjpbMTUwMjUyMDA2MF19
 -->
