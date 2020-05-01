@@ -1,7 +1,20 @@
 
 # ON THE AIR
 
-#### ++[Home](index.md) ++Station and Contact On The Air(you are here)++[[Online Radio Clubs & Organizations](clubs.md)++[Projects](projects.md)++[JS8Call Operating Suggestions and Information](js8opsuggestions.md)
+```mermaid
+graph LR
+a(Home) --- b(Station)
+b---c(On the Air?)
+c--- d(Clubs) 
+d--- e(Projects)
+e---f(JS8 Operating Help)
+click a "index.md"
+click b "station.md"
+click c "ontheair.md"
+click d "clubs.md"
+click f "js8help.md"
+click e "projects.md"
+```
 
 ----------
 
@@ -13,5 +26,6 @@ Please leave a message and repeat until you receive an ack from my station pleas
 
 #### [JS8Call Main page](http://js8call.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzEwMDg5NywtNDkyNzI4MzEyXX0=
+eyJoaXN0b3J5IjpbMTc0MzYwMDY2LDE5MDMxMDA4OTcsLTQ5Mj
+cyODMxMl19
 -->
