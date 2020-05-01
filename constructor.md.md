@@ -2,7 +2,7 @@
 
 ```mermaid
 graph LR
-A[Raspberry Pi 3b+] -- USB Cat --> B(IC-7300)
+A[[Home](index.md)] -- USB Cat --> B(IC-7300)
 B -- <100w  --> D{MFJ-939}
 D --> E{HB-OCF}
 
@@ -10,5 +10,5 @@ D --> E{HB-OCF}
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NTM2MDIyXX0=
+eyJoaXN0b3J5IjpbMTQzMzMzMzg1Ml19
 -->
