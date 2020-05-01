@@ -7,10 +7,14 @@ b---c(On the Air?)
 c--- d(Clubs) 
 d--- e(Projects)
 e---f(JS8 Operating Help)
-
+click a "index.md"
+click b ""
+click c ""
+click d ""
+clidk e
 
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4NjY3NDc0XX0=
+eyJoaXN0b3J5IjpbMTY3MTUwODE3M119
 -->
