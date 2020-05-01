@@ -2,11 +2,13 @@
 ### ++Home (you are here) ++[Station Info](station.md)++[On The Air](ontheair.md)++[Online Radio Clubs & Organizations](clubs.md)++[Projects](projects.md)++[JS8Call Operating Suggestions and Information](js8opsuggestions.md)
 ```mermaid
 graph LR
-Home 
+a[Home] --> b[Station]
+b--> c[On the Air?]
+c-->d[
 
 
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzc4NzcxN119
+eyJoaXN0b3J5IjpbMTY2Njg2NzYxNl19
 -->
