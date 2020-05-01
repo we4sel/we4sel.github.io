@@ -6,13 +6,13 @@
 ---
 ```mermaid
 graph LR
-A[Raspberry Pi 3b+] -- Link text --> B(Raspbian)
+A[Raspberry Pi 3b+] -- Link text --> B(IC-7300)
 A --> C(Round Rect)
-B --> D{Rhombus}
+B -- <100w  --> D{MFJ-939}
 C --> D
 ```
 ---
   "Talking to Aliens" v042120200900
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTExMzM2OSwtOTEzNDkxMzcwXX0=
+eyJoaXN0b3J5IjpbLTIwMDU5ODMxNzksLTkxMzQ5MTM3MF19
 -->
