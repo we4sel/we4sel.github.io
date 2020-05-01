@@ -4,11 +4,13 @@
 graph LR
 a[Home] --> b[Station]
 b--> c[On the Air?]
-c-->d[
+c-->d[Clubs]
+d--> e[Projects]
+e--> f[JS8 Operating Help]
 
 
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2Njg2NzYxNl19
+eyJoaXN0b3J5IjpbLTI3OTA4ODg2OV19
 -->
