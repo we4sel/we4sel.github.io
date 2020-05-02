@@ -1,21 +1,14 @@
-
-  
-
 # Projects
-
 ### ++[Home](index.md) ++[Station Info](station.md)++[On The Air](ontheair.md)++[Online Radio Clubs & Organizations](clubs.md)++[Projects](projects.md)++[JS8 mode info/help](js8help.md)
 ---
 Parking lot for projects waiting for something. 
 ---
-
   ### Waiting
   - 3018 mini CNC
   - Hydroponic/Aquaponic Garden
-
  ### Started  
  - 3 sisters gardens
  - MK4 VW 1.9L PD-TDI
-
  ### Finished
   - 50w CO<sup>2</sup> Laser Cutter/Engraver 
  ### Stalled
@@ -25,7 +18,7 @@ Parking lot for projects waiting for something.
 ---
   "Talking to Aliens" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzkwMDkzNDEsODMyNDg4MTA4LDEzMD
+eyJoaXN0b3J5IjpbLTE4NjQwMDg3MTEsODMyNDg4MTA4LDEzMD
 EzMTY3MjIsNTUwMzAzMjk0LDE0Mjg4NzI0NDEsODY0MDI3MjUz
 XX0=
 -->
