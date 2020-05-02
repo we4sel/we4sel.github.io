@@ -2,7 +2,7 @@
 
 # Station Info
 
-### ++[Home](home.md) ++[Station Info](station.md)++[On The Air](ontheair.md)++[Online Radio Clubs & Organizations](clubs.md)++[Projects](projects.md)++[JS8Call Operating Suggestions and Information](js8help.md)
+### ++[Home](index.md) ++[Station Info](station.md)++[On The Air](ontheair.md)++[Online Radio Clubs & Organizations](clubs.md)++[Projects](projects.md)++[JS8 mode info/help](js8help.md)
 ---
 Power provided via Solar Panels and scrounged lead acid batteries 
 (until budget allows for upgrade)
@@ -20,6 +20,6 @@ this was supposed to be this snazzy flowchart thing built in named "mermaid" whi
 ---
   "Talking to Aliens" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDc2NjAyNTAsMTk4Mzk2ODMzMywtMT
+eyJoaXN0b3J5IjpbLTE5MDgzMzUxOTksMTk4Mzk2ODMzMywtMT
 Y4MzIzNjQ5MywyMDA3OTU2Nzc2XX0=
 -->
