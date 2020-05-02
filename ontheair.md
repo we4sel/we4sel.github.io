@@ -1,7 +1,7 @@
 
 # ON THE AIR
 
-### ++[Home](home.md) ++[Station Info](station.md)++[On The Air](ontheair.md)++[Online Radio Clubs & Organizations](clubs.md)++[Projects](projects.md)++[JS8Call Operating Suggestions and Information](js8help.md)
+### ++[Home](index.md) ++[Station Info](station.md)++[On The Air](ontheair.md)++[Online Radio Clubs & Organizations](clubs.md)++[Projects](projects.md)++[JS8 mode info/help](js8help.md)
 
 ----------
 
@@ -13,6 +13,6 @@ Please leave a message and repeat until you receive an ack from my station pleas
 
 #### [JS8Call Main page](http://js8call.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTI2NDAzOCwxOTAzMTAwODk3LC00OT
-I3MjgzMTJdfQ==
+eyJoaXN0b3J5IjpbLTEzMjg2Njg3ODksMTkwMzEwMDg5NywtND
+kyNzI4MzEyXX0=
 -->
