@@ -17,8 +17,8 @@ D --> E{HB-OCF}
 # no, i don't know how to fix it. 
 
 ---
-  "Talking to Aliens" v050120200900
+  "Talking to Aliens" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTg0NTQzNCwtMTY4MzIzNjQ5MywyMD
+eyJoaXN0b3J5IjpbMTk4Mzk2ODMzMywtMTY4MzIzNjQ5MywyMD
 A3OTU2Nzc2XX0=
 -->
