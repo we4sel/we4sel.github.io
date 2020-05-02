@@ -2,20 +2,7 @@
 
 # Station Info
 
-```mermaid
-graph LR
-a(Home) --- b(Station)
-b---c(On the Air?)
-c--- d(Clubs) 
-d--- e(Projects)
-e---f(JS8 Operating Help)
-click a "index.md"
-click b "station.md"
-click c "ontheair.md"
-click d "clubs.md"
-click f "js8help.md"
-click e "projects.md"
-```
+### ++[Home](home.md) ++[Station Info](station.md)++[On The Air](ontheair.md)++[Online Radio Clubs & Organizations](clubs.md)++[Projects](projects.md)++[JS8Call Operating Suggestions and Information](js8opsuggestions.md)
 ---
 Power provided via Solar Panels and scrounged lead acid batteries 
 (until budget allows for upgrade)
@@ -30,5 +17,5 @@ D --> E{HB-OCF}
 ---
   "Talking to Aliens" v050120200900
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzk1Njc3Nl19
+eyJoaXN0b3J5IjpbLTE2ODMyMzY0OTMsMjAwNzk1Njc3Nl19
 -->
