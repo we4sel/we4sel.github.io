@@ -2,21 +2,8 @@
   
 
 # Projects
-```mermaid
-graph LR
-a(Home) --- b(Station)
-b---c(On the Air?)
-c--- d(Clubs) 
-d--- e(Projects)
-e---f(JS8 Operating Help)
-click a "index.md"
-click b "station.md"
-click c "ontheair.md"
-click d "clubs.md"
-click f "js8help.md"
-click e "projects.md"
-```
----
+
+### ++[Home](home.md) ++[Station Info](station.md)++[On The Air](ontheair.md)++[Online Radio Clubs & Organizations](clubs.md)++[Projects](projects.md)++[JS8Call Operating Suggestions and Information](js8opsuggestions.md)
 Parking lot for projects waiting for something. 
 
 
@@ -37,7 +24,7 @@ Parking lot for projects waiting for something.
 ---
   "Talking to Aliens" v043020201641
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODkzOTc1MjQsODMyNDg4MTA4LDEzMD
-EzMTY3MjIsNTUwMzAzMjk0LDE0Mjg4NzI0NDEsODY0MDI3MjUz
-XX0=
+eyJoaXN0b3J5IjpbMTU1MTA2NDgyMiw4MzI0ODgxMDgsMTMwMT
+MxNjcyMiw1NTAzMDMyOTQsMTQyODg3MjQ0MSw4NjQwMjcyNTNd
+fQ==
 -->
