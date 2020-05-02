@@ -3,7 +3,7 @@
 
 # Projects
 
-### ++[Home](home.md) ++[Station Info](station.md)++[On The Air](ontheair.md)++[Online Radio Clubs & Organizations](clubs.md)++[Projects](projects.md)++[JS8Call Operating Suggestions and Information](js8opsuggestions.md)
+### ++[Home](home.md) ++[Station Info](station.md)++[On The Air](ontheair.md)++[Online Radio Clubs & Organizations](clubs.md)++[Projects](projects.md)++[JS8Call Operating Suggestions and Information](js8help.md)
 Parking lot for projects waiting for something. 
 
 
@@ -22,9 +22,9 @@ Parking lot for projects waiting for something.
  - ESP8266 MQTT thing
 - "Short Bus" to RV
 ---
-  "Talking to Aliens" v043020201641
+  "Talking to Aliens" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTA2NDgyMiw4MzI0ODgxMDgsMTMwMT
+eyJoaXN0b3J5IjpbLTExOTYwNzQzOCw4MzI0ODgxMDgsMTMwMT
 MxNjcyMiw1NTAzMDMyOTQsMTQyODg3MjQ0MSw4NjQwMjcyNTNd
 fQ==
 -->
