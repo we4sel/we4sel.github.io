@@ -1,11 +1,9 @@
 # JS8 Operating Suggestions
-
 ### ++[Home](index.md) ++[Station Info](station.md)++[On The Air](ontheair.md)++[Online Radio Clubs & Organizations](clubs.md)++[Projects](projects.md)++[JS8 mode info/help](js8help.md)
 ---
 ### **TL;DR:**  JS8 is a little weird at first. There are a lot of different things going on at the same time using the same space and it can be confusing, even if not new to Ham Radio or JS8. 
 ---
 #### *NOTICE: in the following is much I may have wrong, or there could certainly be better ways of doing almost everything than those I have described here. I'm open to suggestions and will give due consideration to those received, and if they seem to work better, then the following will certainly be updated to reflect best practices as I understand them.* 
-
 ---
 These are subject to change as better information comes along. Like much of Ham Radio, it can seem like drinking from a firehose at first. All the following is my best attempt at understanding and condensing: very little is “official information”. Please pardon if it gets either too technical or too “crayon. I’ve been trying to figure out how to write a simple guide for folks, and this isn’t very simple but hopefully helpful at leas. Many of the things blend into other categories, which gives lots of combinations and flexibility to the mode and program.
 
@@ -72,5 +70,5 @@ Well, that’s far too much and not nearly enough. Maybe a little easier than re
 ---
   "Talking to Aliens" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1Mjk2NjczMSwtMTU3OTc2NTcwNF19
+eyJoaXN0b3J5IjpbMTQwNDAxNTYzMywtMTU3OTc2NTcwNF19
 -->
