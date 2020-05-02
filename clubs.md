@@ -7,12 +7,13 @@
 
 ---
 
-[100W&aW Member #935](https://bit.ly/2XOV0nl)
+### [Member ID#935](https://bit.ly/2XOV0nl)
 [![100 Watts & a Wire](https://i.postimg.cc/Gpb6QKpB/Asset-22-8x-8.png)](https://bit.ly/2XOV0nl)
+
 ---
   "Talking to Aliens" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTAxMjE0MCw4MjcwMjkwODMsLTI2MD
+eyJoaXN0b3J5IjpbMTQ1NTQ2NTc2NCw4MjcwMjkwODMsLTI2MD
 Q0MzM5OCwtMTYxMTk5NDQ5MSwtMTM1NjU5NTI1OSwtMTYyMjgw
 NjcyNiwxNTYyNzc5MTYzXX0=
 -->
