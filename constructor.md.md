@@ -1,5 +1,5 @@
 
-### ++[Home](home.md) ++[Station Info](station.md)++[On The Air](ontheair.md)++[Online Radio Clubs & Organizations](clubs.md)++[Projects](projects.md)++[JS8Call Operating Suggestions and Information](js8help.md)
+### ++[Home](index.md) ++[Station Info](station.md)++[On The Air](ontheair.md)++[Online Radio Clubs & Organizations](clubs.md)++[Projects](projects.md)++[JS8 mode info/help](js8help.md)
 ```mermaid
 graph LR
 a(Home) --- b(Station)
@@ -16,5 +16,5 @@ click e "projects.md"
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTkwNzQzMl19
+eyJoaXN0b3J5IjpbLTE1MzA1MDc4NDNdfQ==
 -->
