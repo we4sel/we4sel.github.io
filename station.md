@@ -13,14 +13,13 @@ A[Raspberry Pi 3b+] -- USB Cat --> B(IC-7300)
 B -- <100w  --> D{MFJ-939}
 D --> E{HB-OCF}
 
-```well, that worked great. good job >.< 
-this was supposed to be this snazzy flowchart thing built in named "mermaid" which apparently has been beached. 
-
-no, i don't know how to fix it. 
+```
+well, that worked great. good job >.< 
+this was supposed to be this snazzy flowchart thing built in named "mermaid" which apparently has been beached.  no, i don't know how to fix it. 
 
 ---
   "Talking to Aliens" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzc2NzA0MCwxOTgzOTY4MzMzLC0xNj
-gzMjM2NDkzLDIwMDc5NTY3NzZdfQ==
+eyJoaXN0b3J5IjpbLTE2NDc2NjAyNTAsMTk4Mzk2ODMzMywtMT
+Y4MzIzNjQ5MywyMDA3OTU2Nzc2XX0=
 -->
