@@ -1,21 +1,6 @@
 # JS8 Operating Suggestions
 
-
-```mermaid
-graph LR
-a(Home) --- b(Station)
-b---c(On the Air?)
-c--- d(Clubs) 
-d--- e(Projects)
-e---f(JS8 Operating Help)
-click a "index.md"
-click b "station.md"
-click c "ontheair.md"
-click d "clubs.md"
-click f "js8help.md"
-click e "projects.md"
-```
----
+### ++[Home](home.md) ++[Station Info](station.md)++[On The Air](ontheair.md)++[Online Radio Clubs & Organizations](clubs.md)++[Projects](projects.md)++[JS8Call Operating Suggestions and Information](js8opsuggestions.md)
 
 ### **TL;DR:**  JS8 is a little weird at first. There are a lot of different things going on at the same time using the same space and it can be confusing, even if not new to Ham Radio or JS8. There is much much more, but these are the things I use most often, and how. 
 
@@ -86,5 +71,5 @@ Well, that’s far too much and not nearly enough. Maybe a little easier than re
 ---
   "Talking to Aliens" v042520201900
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTk2MjI0MzRdfQ==
+eyJoaXN0b3J5IjpbLTQxMTg2MDQzMF19
 -->
