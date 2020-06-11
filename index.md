@@ -1,5 +1,6 @@
-# Welcome to Byron’s corner *aka WE4SEL
-
+# Welcome to Byron’s corner 
+(aka WE4SEL)
+---
 
 ### ++[Home](index.md) ++[Station Info](station.md)++[On The Air](ontheair.md)++[Online Radio Clubs & Organizations](clubs.md)++[Projects](projects.md)++[JS8 mode info/help](js8help.md)
 ---
@@ -13,5 +14,5 @@
 “Talking to Aliens”
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjY4NDI5NiwtMzAwMTEwNTAxXX0=
+eyJoaXN0b3J5IjpbLTIwNzQyMTE4MzYsLTMwMDExMDUwMV19
 -->
