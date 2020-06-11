@@ -1,7 +1,4 @@
----
-
-
----
+# Welcome to Byron’s corner *aka WE4SEL
 
 <h1 id="welcome-to-byrons-corner-aka-we4sel">Welcome to Byron’s corner *aka WE4SEL</h1>
 <h3 id="home-station-infoon-the-aironline-radio-clubs--organizationsprojectsjs8-mode-infohelp">++<a href="index.md">Home</a> ++<a href="station.md">Station Info</a>++<a href="ontheair.md">On The Air</a>++<a href="clubs.md">Online Radio Clubs &amp; Organizations</a>++<a href="projectsd">P](projects</a>++<a href="js8help.md">JS8 mode info/help</a></h3>
@@ -14,8 +11,9 @@
 <hr>
 <p>
 
-(y“Talking to Aliens”</p>
+---
+“Talking to Aliens”
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDExMDUwMV19
+eyJoaXN0b3J5IjpbLTI2Njc3MjA0NCwtMzAwMTEwNTAxXX0=
 -->
