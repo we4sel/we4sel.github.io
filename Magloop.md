@@ -1,3 +1,5 @@
+# Big Transmitting Magnetic Loop 
+
 Pictures soon. if you're actually interested, pester me about it! 
 
  - 20' circumference, 2.5' sections, 45° Elbows, all off the shelf. 
@@ -10,5 +12,5 @@ because...i didn't know it was impossible so
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwNzAzODNdfQ==
+eyJoaXN0b3J5IjpbLTE1NDI2OTE5MzQsODAwNzAzODNdfQ==
 -->
