@@ -12,8 +12,10 @@ Please leave a message and repeat until you receive an ack from my station pleas
 <h4 id="js8call-main-page"><a href="http://js8call.com/">JS8Call Main page</a></h4>
 
 <h1 id="check out-g GridtTracker.org"><a href="https://www.gridtracker.org/"><strong>Check outridracker.org</strong></a></h1>
-<p>I do occasionally operate on the Joe Taylor modes, such as JT65, JT8, and FT8, for testing and propagation mostly, as originally intended. Among the handiest tools I’ve come across for my purposes is GridTracker. Runs great on my Raspberry Pi based station, hooks right in with wsjtx and jtdx, handles the logging very smoothly, including LOTW, although it’s far more capable than my purposes require. The data visualization and sorting of the mountain of incoming data these modes can present an operator makes it far more enjoyable to test a new antenna design.</p>
+<p>
+I do occasionally operate on the Joe Taylor modes, such as JT65, JT8, and FT8, for testing and propagation mostly, as originally intended. Among the handiest tools I’ve come across for my purposes is GridTracker. Runs great on my Raspberry Pi based station, hooks right in with wsjtx and jtdx, handles the logging very smoothly, including LOTW, although it’s far more capable than my purposes require. The data visualization and sorting of the mountain of incoming data these modes can present an operator makes it far more enjoyable to test a new antenna design.</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTEwMzYxMDZdfQ==
+eyJoaXN0b3J5IjpbLTIwNTYyODE3MjAsLTE4MTEwMzYxMDZdfQ
+==
 -->
