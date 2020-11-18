@@ -8,8 +8,8 @@ Please leave a message and repeat until you receive an ack from my station pleas
 [![JS8](https://i.postimg.cc/sxdKgfqk/web-header-2-1024x165.png)](http://js8call.com/)
 
 #### [JS8Call Main page](http://js8call.com/)
-I Do occasionally operate on the W
+I Do occasionally operate on the Joe Taylor modes, such as JT65, JT8, and FT8, for testing and propogation mostly, not as a dopamine pump. Among the handiest tools I've come across for my purposes is the GridTracker prorgram. Runs great on my Raspberry Pi based station, hooks right in with wsjtx and jtdx, handles the logging and visuali
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODM2NDI1NywxMTgxMzkxODE5LDE5MD
+eyJoaXN0b3J5IjpbMjAxMjUwNDcxOSwxMTgxMzkxODE5LDE5MD
 MxMDA4OTcsLTQ5MjcyODMxMl19
 -->
