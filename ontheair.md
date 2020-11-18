@@ -11,8 +11,8 @@ Please leave a message and repeat until you receive an ack from my station pleas
 nna design. 
 # [**Check out Gridtracker.org**](https://www.gridtracker.org/) 
 I do occasionally operate on the Joe Taylor modes, such as JT65, JT8, and FT8, for testing and propagation mostly, not as a dopamine pump. Among the handiest tools I've come across for my purposes is the GridTracker program. Runs great on my Raspberry Pi based station, hooks right in with wsjtx and jtdx, handles the logging very easily, although it's far more capable than my purposes require. The data visualization and sorting of the mountain of incoming data these modes can present an operator makes it far more enjoyable to test a new antenna design. 
-# [**Check out Gridtracker.org**](https://www.gridtracker.org/) 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjkyODI1MzIsMTE4MTM5MTgxOSwxOT
-AzMTAwODk3LC00OTI3MjgzMTJdfQ==
+eyJoaXN0b3J5IjpbLTE0NDA4NjQ4NSwtMTU2OTI4MjUzMiwxMT
+gxMzkxODE5LDE5MDMxMDA4OTcsLTQ5MjcyODMxMl19
 -->
