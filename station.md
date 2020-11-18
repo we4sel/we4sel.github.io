@@ -5,7 +5,7 @@ Power provided via Solar Panels and scrounged lead acid batteries
 (until budget allows for upgrade)
 ```mermaid
 graph LR
-A[Raspberry Pi 3b+] -- USB Cat --> B(IC-7300)
+A[Raspberry Pi 4] -- USB Cat --> B(IC-7300)
 B -- <100w  --> D{MFJ-939}
 D --> E{HB-OCF}{Experimental Magloop}{Other Experiments}
 ```
@@ -15,6 +15,6 @@ this was supposed to be this snazzy flowchart thing built in named "mermaid" whi
 ---
   "Talking to Aliens" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDAyMjA2MzAsMTk4Mzk2ODMzMywtMT
-Y4MzIzNjQ5MywyMDA3OTU2Nzc2XX0=
+eyJoaXN0b3J5IjpbMTAzNDUxNjcyMiwtMTkwMDIyMDYzMCwxOT
+gzOTY4MzMzLC0xNjgzMjM2NDkzLDIwMDc5NTY3NzZdfQ==
 -->
