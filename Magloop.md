@@ -1,5 +1,6 @@
 # Big Transmitting Magnetic Loop 
-
+Intended for a thin slice of 40m with infrequent retuning requirement.
+built with little calculation and from bits and pieces of methods from various instructions and blogs and videos around the net. 
 Pictures soon. if you're actually interested, pester me about it! 
 
  - 20' circumference, 2.5' sections, 45° Elbows, all off the shelf. 
@@ -9,11 +10,16 @@ Pictures soon. if you're actually interested, pester me about it!
  - 2.5' "trombone slide" capacitor, 
 	 - 1/2 inch inside 3/4 inch copper, 
 	 - pvc sliders, kinda customized
- - intended for a thin slice of 40m with minimum ause...i didn't know it was impossible so
+ 
+ 
+ 
+
+
+because...i didn't know it was impossible so
    i did it anyway.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTk5OTE4NCwzMTc2MDIxNCwtMTU0Mj
+eyJoaXN0b3J5IjpbLTcwNTUwMjY1OCwzMTc2MDIxNCwtMTU0Mj
 Y5MTkzNCw4MDA3MDM4M119
 -->
