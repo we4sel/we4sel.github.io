@@ -1,7 +1,6 @@
 # Big Transmitting Magnetic Loop 
 Intended for a thin slice of 40m with infrequent retuning requirement.
-built with little calculation and from bits and pieces of methods from various instructions and blogs and videos around the net. 
-Pictures soon. if you're actually interested, pester me about it! 
+built with little calculation and from bits and pieces of methods from various instructions and blogs and videos around the net.  Pictures soon. if you're actually interested, pester me about it! 
 
  - 20' circumference, 2.5' sections, 45° Elbows, all off the shelf. 
  - silver solder joints on propane.  
@@ -20,6 +19,6 @@ because...i didn't know it was impossible so
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTUwMjY1OCwzMTc2MDIxNCwtMTU0Mj
+eyJoaXN0b3J5IjpbMTI2OTkyMjM4OCwzMTc2MDIxNCwtMTU0Mj
 Y5MTkzNCw4MDA3MDM4M119
 -->
