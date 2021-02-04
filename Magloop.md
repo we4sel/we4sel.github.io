@@ -11,7 +11,7 @@ built with little calculation and from bits and pieces of methods from various i
 	 - pvc sliders, kinda customized
  ![enter image description here](https://i.imgur.com/yNyRlrP.jpg)
  
- ![enter image description here](https://i.imgur.com/J6W5PNK.jpg)
+ ![coupling loop](https://i.imgur.com/J6W5PNK.jpg)
 
 
 because...i didn't know it was impossible so
@@ -19,6 +19,7 @@ because...i didn't know it was impossible so
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzczMDUwOSwxMjY5OTIyMzg4LDMxNz
-YwMjE0LC0xNTQyNjkxOTM0LDgwMDcwMzgzXX0=
+eyJoaXN0b3J5IjpbLTI2Mzk2MTk3NSwxNTQ3NzMwNTA5LDEyNj
+k5MjIzODgsMzE3NjAyMTQsLTE1NDI2OTE5MzQsODAwNzAzODNd
+fQ==
 -->
