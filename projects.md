@@ -11,7 +11,7 @@ Parking lot for projects in their various states.
  - Started   
 	 - 3 sisters gardens 
 	 - MK4 VW 1.9L PD-TDI  
-	 [- Transmitting Magnetic Loop for 7mHz](magloop)
+	 [- Transmitting Magnetic Loop for 7mHz](Magloop)
    
  - Finished 
 	 - 50w CO<sup>2</sup> Laser Cutter/Engraver 
@@ -26,7 +26,7 @@ Parking lot for projects in their various states.
 
   "Talking to Aliens" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyNDYyODE1LC04MDMyNDcxMjUsMjE0Nz
+eyJoaXN0b3J5IjpbOTE4MDgzNjQ3LC04MDMyNDcxMjUsMjE0Nz
 U0MDc3LDExNzUyODQ3NjUsODMyNDg4MTA4LDEzMDEzMTY3MjIs
 NTUwMzAzMjk0LDE0Mjg4NzI0NDEsODY0MDI3MjUzXX0=
 -->
