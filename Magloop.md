@@ -10,6 +10,7 @@ built with little calculation and from bits and pieces of methods from various i
 	 - 1/2 inch inside 3/4 inch copper, 
 	 - pvc sliders, kinda customized 
 	 - Note: Don't Use Steel Reinforced JB-Quick Epoxy on your HIGH VOLTAGE CAPACITOR INSULATORS. Guess Why? Ask me how I know? 
+ 
  ![top at 12 feet](https://i.imgur.com/yNyRlrP.jpg)
  
  ![coupling loop](https://i.imgur.com/J6W5PNK.jpg)
@@ -20,8 +21,3 @@ because...i didn't know it was impossible so
    i did it anyway.
 
 > Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTU1NzY1OSwxNTQ3NzMwNTA5LDEyNj
-k5MjIzODgsMzE3NjAyMTQsLTE1NDI2OTE5MzQsODAwNzAzODNd
-fQ==
--->
