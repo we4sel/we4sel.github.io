@@ -14,7 +14,3 @@ this was supposed to be this snazzy flowchart thing built in named "mermaid" whi
 
 ---
   "Talking to Aliens" 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDUxNjcyMiwtMTkwMDIyMDYzMCwxOT
-gzOTY4MzMzLC0xNjgzMjM2NDkzLDIwMDc5NTY3NzZdfQ==
--->
