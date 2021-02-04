@@ -9,7 +9,7 @@ built with little calculation and from bits and pieces of methods from various i
  - 2.5' "trombone slide" capacitor, 
 	 - 1/2 inch inside 3/4 inch copper, 
 	 - pvc sliders, kinda customized
- 
+ ![enter image description here](https://i.imgur.com/yNyRlrP.jpg)
  
  
 
@@ -19,6 +19,6 @@ because...i didn't know it was impossible so
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTkyMjM4OCwzMTc2MDIxNCwtMTU0Mj
-Y5MTkzNCw4MDA3MDM4M119
+eyJoaXN0b3J5IjpbLTc3NjQ1MTkzMiwxMjY5OTIyMzg4LDMxNz
+YwMjE0LC0xNTQyNjkxOTM0LDgwMDcwMzgzXX0=
 -->
