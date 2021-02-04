@@ -7,6 +7,8 @@
 <hr>
 <hr>
 <hr>
+<hr>
+<hr>
 <h1 id="on-the-air">ON THE AIR</h1>
 <h3 id="home-station-infoon-the-aironline-radio-clubs--organizationsprojectsjs8-mode-infohelp">++<a href="index.md">Home</a> ++<a href="station.md">Station Info</a>++<a href="ontheair.md">On The Air</a>++<a href="clubs.md">Online Radio Clubs &amp; Organizations
 </a></h3><p>If you’re looking for me on the air your best bet is via  <a href="http://js8call.com/">JS8</a>  on 7.078mHz. My station stays on the air as near 24/7/365 as the weather and lightning allow. If there’s lighting in view on  <a href="http://www.lightningmaps.org/?lang=en#y=34.0379;x=-88.9081;z=9;t=2;m=oss;r=0;s=15;o=0;b=68.93;d=2;dl=2;dc=0;ts=0;tr=1;%5Dhttp://www.lightningmaps.org/?lang=en#y=34.0379;x=-88.9081;z=9;t=2;m=oss;r=0;s=15;o=0;b=68.93;d=2;dl=2;dc=0;ts=0;tr=1;">THIS MAP (click to see it)</a>)  theres a very good chance my station will be off.</p><br>
