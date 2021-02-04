@@ -21,7 +21,7 @@
 <ul>
 <li>3 sisters gardens</li>
 <li>MK4 VW 1.9L PD-TDI<br>
-<a href="Magloop">- Transmitting Magnetic Loop for 7mHz</a></li>
+<a href="magloop">- Transmitting Magnetic Loop for 7mHz</a></li>
 </ul>
 </li>
 <li>
