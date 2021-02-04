@@ -14,12 +14,13 @@ built with little calculation and from bits and pieces of methods from various i
  ![coupling loop](https://i.imgur.com/J6W5PNK.jpg)
 
 
+
 because...i didn't know it was impossible so
    i did it anyway.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODY0ODM4ODgsMTU0NzczMDUwOSwxMj
-Y5OTIyMzg4LDMxNzYwMjE0LC0xNTQyNjkxOTM0LDgwMDcwMzgz
-XX0=
+eyJoaXN0b3J5IjpbOTA4MzQ2Nzg2LDE1NDc3MzA1MDksMTI2OT
+kyMjM4OCwzMTc2MDIxNCwtMTU0MjY5MTkzNCw4MDA3MDM4M119
+
 -->
