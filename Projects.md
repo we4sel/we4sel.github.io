@@ -21,7 +21,7 @@
 <ul>
 <li>3 sisters gardens</li>
 <li>MK4 VW 1.9L PD-TDI<br>
-<a href="mMagloop">- Transmitting Magnetic Loop for 7mHz</a></li>
+<a href="magloop">- Large Transceiving Magnetic Loop for 7mHz</a></li>
 </ul>
 </li>
 <li>
@@ -42,6 +42,3 @@
 <hr>
 <p>“Talking to Aliens”</p>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTI3MzA0MF19
--->
