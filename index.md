@@ -3,6 +3,8 @@
 
 ---
 
+<hr>
+<hr>
 <h1 id="welcome-to-byron’s-corner">Welcome to Byron’s corner</h1>
 <p>(aka <a href="https://www.qrz.com/db/we4sel">WE4SEL</a>)</p>
 <hr>
@@ -15,6 +17,3 @@ So here you have it. Byron, WE4SEL (formerly KG5JVF), radio, projects, problems,
 <hr>
 <p>“Talking to Aliens”</p>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDA0NDUzN119
--->
