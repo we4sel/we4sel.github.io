@@ -8,8 +8,13 @@
 <hr>
 <h3 id="home-station-infoon-the-aironline-radio-clubs--organizationsprojectsjs8-mode-infohelp">++<a href="index.md">Home</a> ++<a href="station.md">Station Info</a>++<a href="ontheair.md">On The Air</a>++<a href="clubs.md">Online Radio Clubs &amp; Organizations</a>++<a href="projects.md">Projects</a>++<a href="js8help.md">JS8 mode info/help</a></h3>
 <hr>
+So here you have it. Byron, WE4SEL (formerly KG5JVF), radio, projects, problems, etc.  Yes, my call is my best attempt at weasel, and if that's how you remember it, or think it, that suits me just fine! 
+<hr>
 <h2 id="​“if-we-could-read-the-secret-history-of-our-enemies--we-should-find-in-each-mans-life-sorrow-and-suffering-enough-to-disarm-all-hostility.”-henry-wadsworth-longfellow">​“If we could read the secret history of our enemies,  we should find in each man’s life sorrow and suffering enough to disarm all hostility.” ~Henry Wadsworth Longfellow</h2>
 <h2 id="“truth-is-not-what-you-want-it-to-be-it-is-what-it-is-and-you-must-bend-to-its-power-or-live-a-lie.”--miyamoto-musashi">“Truth is not what you want it to be; it is what it is, and you must bend to its power or live a lie.” ~ Miyamoto Musashi</h2>
 <hr>
 <p>“Talking to Aliens”</p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3NDA0NDUzN119
+-->
